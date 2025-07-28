@@ -32,7 +32,8 @@
 		"outerColor": [255,255,255],
 		"innerColor": [254,209,65],
 		"uniqueName": "Bayanihan",
-		"uniques": ["[+25]% [Culture] [in all cities] <for [5] turns> <upon declaring friendship>", "[+40]% [Culture] [in all cities] <for [5] turns> <upon declaring a defensive pact>", "[-10]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[+25]% [Culture] [in all cities] <for [5] turns> <upon declaring friendship>", "[+40]% [Culture] [in all cities] <for [5] turns> <upon declaring a defensive pact>", "[-10]% Strength <when fighting in [Foreign Land] tiles>"
+		,"Comment [Based on the 'Sanseb's Philippines - Modern' mod, made by Archanist!"],
 		"cities": ["Manila","Quezon City","Davao City","Calcoocan","Taguig","Zamboanga City","Cebu City","Antipolo","Pasig","Cagayan de Oro",
 			"Valenzuela","Dasmariñas","Parañaque","General Santos","Bacoor","San Jose del Monte","Las Piñas","Bacolod","Muntinlupa","Calamba",
 			"Lapu-Lapu City","Imus","Angeles City","Iloilo City"]
@@ -71,7 +72,8 @@
 		"outerColor": [220,105,0],
 		"innerColor": [50,20,0],
 		"uniqueName": "Asa Di Var",
-		"uniques": ["[2] free [Great Prophet] units appear <upon entering a new era> <starting from the [Renaissance era]>", "[+2 Culture] [in cities following our religion]"],
+		"uniques": ["[2] free [Great Prophet] units appear <upon entering a new era> <starting from the [Renaissance era]>", "[+2 Culture] [in cities following our religion]"
+		,"Comment [Based on the 'Matt's Civs: Sikh Empire' mod, made by mattwho"],
 		"cities": ["Lahore","Gujranwala","Amritsar","Multan","Srinagar","Jammu","Attock","Kasur","Sialkot","Peshawar",
 			"Skardu","Chhachhrauli","Kaithal","Patiala","Sangrur","Thanesar","Ludhiana","Ambala","Firozpur","Ferozeshah"]
 	},
