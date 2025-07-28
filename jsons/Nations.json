@@ -32,7 +32,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [254,209,65],
 		"uniqueName": "Bayanihan",
-		"uniques": ["[+25%] [Culture] [in all cities] <for [5] turns> <upon declaring friendship>", "[+40%] [Culture] [in all cities] <for [5] turns> <upon declaring a defensive pact>", "[-10]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[+25]% [Culture] [in all cities] <for [5] turns> <upon declaring friendship>", "[+40]% [Culture] [in all cities] <for [5] turns> <upon declaring a defensive pact>", "[-10]% Strength <when fighting in [Foreign Land] tiles>"],
 		"cities": ["Manila","Quezon City","Davao City","Calcoocan","Taguig","Zamboanga City","Cebu City","Antipolo","Pasig","Cagayan de Oro",
 			"Valenzuela","Dasmariñas","Parañaque","General Santos","Bacoor","San Jose del Monte","Las Piñas","Bacolod","Muntinlupa","Calamba",
 			"Lapu-Lapu City","Imus","Angeles City","Iloilo City"]
