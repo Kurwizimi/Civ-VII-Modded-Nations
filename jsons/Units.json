@@ -3,7 +3,7 @@
 		"name": "Katipunero",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
-		"uniqueTo": "The Phillipines",
+		"uniqueTo": "The Philippines",
 		"movement": 2,
 		"strength": 34,
 		"cost": 225,
