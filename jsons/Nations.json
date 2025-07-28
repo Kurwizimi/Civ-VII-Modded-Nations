@@ -1,6 +1,6 @@
 [
 	{
-		"name": "The Phillipines",
+		"name": "The Philippines",
 		"leaderName": "Jose Rizal",
 		"adjective": ["Fillipino"],
 		"startBias": ["Coast"],
@@ -40,7 +40,7 @@
 
 	{
 		"name": "The Sikh Empire",
-		"leaderName": "",
+		"leaderName": "Ranjit Singh",
 		"adjective": ["Sikh"],
 		"startBias": ["River","Plains"],
 		"preferredVictoryType": "Cultural",
