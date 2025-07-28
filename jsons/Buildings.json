@@ -25,7 +25,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
-		"uniques": ["[+10%] [Happiness] [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+10]% [Happiness] [in this city]", "Destroyed when the city is captured"]
 	},
 
 ]
