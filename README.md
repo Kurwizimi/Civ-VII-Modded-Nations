@@ -1,6 +1,4 @@
-# Civ-VII-Nations
+# Civ-VII-Modded-Nations
 
-This mod adds some of the civs present in Civ VII that are not in UnCiv. 
+This mod adds some of the civs present in fan-made Civ VII mods.
 If you have any suggestions or find any bugs, please let me know by creating a new Issue or by contacting me on Discord.
-
-Thanks to Rob Loach for your contribution to this mod!
