@@ -1,0 +1,118 @@
+[
+        {
+        "name": "[Magarru] ability",
+       "uniques": ["[This Unit] gains [2] movement <upon damaging a [Land] unit>"]
+    },
+       
+       {
+        "name": "[Medjay] ability",
+       "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [City center] tiles>"]
+    },
+
+       {
+        "name": "[Phalanx] ability",
+        "uniques": ["[+10]% Strength <when adjacent to a [Phalanx] unit>"]
+    },
+       
+       {
+        "name": "[Han Chu-Ko-Nu] ability",
+        "uniques": ["[+20]% Strength <when adjacent to a [Wounded] unit>"]
+    },
+        
+        {
+        "name": "[Burning Arrows] ability",
+        "uniques": ["[+50]% Strength <when fighting in [Forest] tiles>"]
+    },
+
+        {
+        "name": "[Xshasan Immortal] ability",
+        "uniques": ["Heals [15] damage if it kills a unit"]
+    },
+
+       {
+        "name": "[Roman Legion] ability",
+        "uniques": ["[+10]% Strength <for every [Completed Policy branches]>"]
+    },
+
+
+        {
+        "name": "[Leiomano] ability",
+        "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Sword] units>"]
+    },
+
+        {
+        "name": "Normannitas",
+        "uniques": ["[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>","[+1] Movement <when [Embarked]>"]
+    },
+        
+        {
+        "name": "Trained Sherpas",
+        "uniques": ["Can pass through impassable tiles","[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
+    },
+
+       {
+        "name": "Ulus",
+       "uniques": ["[+1] Movement","[This Unit] gains [2] movement <upon entering a [Örtöö] tile>"]
+    },
+
+       {
+        "name": "[Keshig] ability",
+        "uniques": ["[This Unit] heals [15] HP <upon defeating a [Military] unit>"]
+    },
+
+        {
+        "name": "[Chevaler] ability",
+        "uniques": ["[+15]% Strength <vs [Sword] units>"]
+    },
+
+       {
+        "name": "[Golden Bangles] ability",
+       "uniques": ["[+15]% Strength <for every adjacent [resource]>"]
+    },
+
+         {
+        "name": "[Abambowa] ability",
+        "uniques": ["[+50]% Health from pillaging tiles"]
+    },
+
+        {
+        "name": "[Mikasa] ability",
+        "uniques": ["Free [Ironclad] appears <upon being defeated>"]
+    },
+
+        {
+        "name": "[Soldaderas] ability",
+        "uniques": ["All adjacent units heal [10] HP when healing"]
+    },
+
+        {
+        "name": "[Gusa] ability",
+        "uniques": ["[+10]% Strength <when adjacent to a [Gusa] unit>"]
+    },
+
+       {
+        "name": "[Prussian Hussar] ability",
+        "uniques": ["[+50]% Strength <if it hasn't used other actions yet>"]
+    },
+
+       {
+        "name": "Skirmish",
+        "uniques": ["[+20]% to Flank Attack bonuses"]
+    },
+
+       {
+        "name": "[Castilian Tercio] ability",
+        "uniques": ["[-50]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
+    },
+
+
+
+
+
+
+
+
+
+
+
+]

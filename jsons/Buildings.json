@@ -1,0 +1,230 @@
+[
+	{
+		"name": "Ekallu",
+		"replaces": "Walls",
+		"uniqueTo": "Assyria",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+1 Production] from every [Culture] <in this city> <hidden from users>", "Comment [+1 [Production] from every [Culture] building in this city]"]
+	},
+	
+	{
+        	"name": "Punic Port",
+		"replaces": "Harbor",
+		"uniqueTo": "Qart Hashdat",
+       		"cost": 120,
+        	"hurryCostModifier": 100,
+        	"uniques": ["Connects trade routes over water", "Must be next to [Coast]", "[+1 Production] from [Water resource] tiles [in this city]", "[+1 Gold, +1 Production] from [Coast] tiles [in this city]", "[+1 Gold, +1 Production] from [Coast] tiles [in this city] <in [Capital] cities>"],
+        "requiredTech": "Compass"
+    },
+	
+	{
+		"name": "Necropolis",
+		"replaces": "Temple",
+		"uniqueTo": "Khemet",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"uniques": ["Gain [100] [Gold] <upon constructing [Wonders] [in this city]> <(modified by game speed)>"],
+		"requiredTech": "Philosophy"
+	},
+
+	{
+		"name": "Acropolis",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Hellas",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+        	"requiredBuilding": "Monument",
+		"uniques": ["[+10]% Happiness from luxury resources gifted by City-States"],
+		"requiredTech": "Drama and Poetry"
+	},
+	
+	{
+		"name": "Vihara",
+		"replaces": "Temple",
+		"uniqueTo": "Maurya",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"uniques": ["[+10]% [Happiness] [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+
+	{
+		"name": "Uwaybil K'uh",
+		"replaces": "Temple",
+		"uniqueTo": "Ki'iche",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"uniques": ["[+5]% [Production] [in this city] <for [10] turns> <upon discovering [All] technology>"],
+		"requiredTech": "Philosophy"
+	},
+
+	{
+		"name": "Forum",
+		"replaces": "Market",
+		"uniqueTo": "Roma",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+        	"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Culture, +2 Gold] <for every [Completed Policy branches]>"],
+		"requiredTech": "Currency"
+	},
+
+	 {
+        	"name": "Madinat",
+        	"maintenance": 2,
+		"replaces": "University",
+		"uniqueTo": "The Abbasids",
+		"cost": 160,
+		"hurryCostModifier": 160,
+        	"percentStatBonus": {"science": 33},
+        	"specialistSlots": {"Scientist": 2},
+        	"requiredBuilding": "Library",
+        	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","[+2 Science] from every specialist [in this city]"],
+        	"requiredTech": "Education"
+    },
+	{
+		"name": "Anjuvannam",
+		"replaces": "Bank",
+		"uniqueTo": "Chola",
+		"cost": 200,
+		"hurryCostModifier": 160,
+		"gold": 2,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+50]% Production when constructing [Water] units [in this city]"],
+		"specialistSlots": {"Merchant": 1},
+		"requiredTech": "Banking"
+	},
+
+	{
+		"name": "Pura",
+		"replaces": "Temple",
+		"uniqueTo": "Majapahit",
+		"cost": 70,
+		"hurryCostModifier": 160,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"uniques": ["[-15]% Food consumption by specialists [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+	
+	{
+		"name": "Donjon",
+		"replaces": "Castle",
+		"uniqueTo": "Normandy",
+		"cost": 160,
+		"hurryCostModifier": 160,
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"uniques": [ "Free [Chevaler] appears", "[+10]% Production when constructing [Mounted] units [in this city]"],
+		"requiredTech": "Chivalry"
+	},
+
+	{
+        	"name": "Plaza",
+		"replaces": "Opera House",
+		"uniqueTo": "Castile",
+        	"culture": 4,
+		"specialistSlots": {"Artist": 1},
+		"cost": 200,
+        	"hurryCostModifier": 100,
+       		"requiredTech": "Acoustics",
+		"uniques": [ "[+2 Gold, +1 Culture] from [Luxury] tiles [in this city]"],
+	},
+
+	{
+        	"name": "Industrial Park",
+        	"replaces": "Factory",
+        	"uniqueTo": "The United States",
+        	"production": 4,
+		"percentStatBonus": {"production": 10},
+       		"specialistSlots": {"Engineer": 2},
+        	"cost": 360,
+		"requiredResource": "Coal",
+        	"uniques": ["[+2 Production] from [resource] tiles [in this city]"],
+        	"requiredTech": "Industrialization"
+        },
+
+	{
+		"name": "Financial Centre",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Great Britain",
+		"cost": 360,
+		"hurryCostModifier": 160,
+		"gold": 3,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Gold, +1 Science] from each Trade Route", "Comment [Unlocked earlier at [Industrialization]]"],
+		"specialistSlots": {"Merchant": 2},
+		"requiredTech": "Industrialization"
+	},
+
+	{
+        	"name": "Avenue",
+        	"replaces": "Stadium",
+        	"uniqueTo": "Imperial France",
+        	"happiness": 3,
+        	"cost": 500,
+        	"uniques": ["[+2 Happiness] from [Great Improvement] tiles [in this city]"],
+        	"requiredTech": "Refrigeration"
+        },
+
+	{
+		"name": "Zaibatsu",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Meiji Japan",
+		"cost": 360,
+		"hurryCostModifier": 160,
+		"gold": 3,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Gold] from [improved] tiles [in this city]","[+1 Production] from [unimproved] tiles [in this city]"],
+		"specialistSlots": {"Merchant": 2},
+		"requiredTech": "Electricity"
+	},
+	
+	{
+		"name": "Zócalo",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Mexico",
+		"cost": 360,
+		"hurryCostModifier": 160,
+		"gold": 3,
+		"percentStatBonus": {"gold": 25},
+		"uniqueText": "+2 [Culture] after completing a policy tree",
+		"uniques": ["[+2 Culture] <after adopting [Tradition Complete]>","[+2 Culture] <after adopting [Liberty Complete]>","[+2 Culture] <after adopting [Honor Complete]>","[+2 Culture] <after adopting [Piety Complete]>","[+2 Culture] <after adopting [Commerce Complete]>","[+2 Culture] <after adopting [Rationalism Complete]>","[+2 Culture] <after adopting [Order Complete]>","[+2 Culture] <after adopting [Freedom Complete]>","[+2 Culture] <after adopting [Autocracy Complete]>","[+2 Culture] <after adopting [Patronage Complete]>"],
+		"specialistSlots": {"Merchant": 2},
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Huiguan",
+		"replaces": "Bank",
+		"uniqueTo": "Qing",
+		"cost": 200,
+		"hurryCostModifier": 160,
+		"gold": 2,
+		"science": 2,
+		"culture": 2,
+		"percentStatBonus": {"gold": 25},
+		"specialistSlots": {"Merchant": 1},
+		"requiredTech": "Banking"
+	}
+
+	{
+		"name": "Tawantinsuyu Ability",
+		"cost": 1,
+		"hurryCostModifier": 160000000,
+		"uniques": ["Gain [1] [Production] <for every [10] [Food]> <in this city>", "Unbuildable", "Destroyed when the city is captured", "Will not be displayed in Civilopedia", "Unsellable"],
+		"requiredTech": "Agriculture"
+	}
+]
