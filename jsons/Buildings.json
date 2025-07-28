@@ -3,7 +3,7 @@
 	{
 		"name": "Intramuros",
 		"replaces": "Arsenal",
-		"uniqueTo": "The Phillipines",
+		"uniqueTo": "The Philippines",
 		"cost": 300,
 		"culture": 2,
 		"cityStrength": 9,
