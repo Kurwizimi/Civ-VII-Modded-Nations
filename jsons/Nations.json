@@ -1,5 +1,170 @@
 [
 	{
+		"name": "Edo Japan",
+		"leaderName": "Tokugawa",
+		"adjective": ["Edo"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Hellpanda.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We say no because we must."],
+		"neutralYes": ["A beautiful proposition."],
+
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["We refuse."],
+		"hateYes": ["A nice suggestion."],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		 "spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
+		
+		"outerColor": [255,255,255],
+		"innerColor": [254,209,65],
+		"uniqueName": "Sakoku Edict",
+		"uniques": ["[+1 Science, +1 Culture, +1 Gold] from [{improved} {Luxury resource}] tiles [in all cities]", "[-50]% [Happiness] [in all cities] <for [5] turns> <upon declaring friendship>"
+		,"Comment [Based on the 'Hellpanda's Edo Japan (Exploration)' mod, made by Hellpanda]"],
+		"cities": ["Kyoto","Edo","Osaka","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
+			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
+			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
+			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
+	},
+	
+	{
+		"name": "Ireland",
+		"leaderName": "The Statesmen",
+		"adjective": ["Irish"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by mattwho.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We say no because we must."],
+		"neutralYes": ["A beautiful proposition."],
+
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["We refuse."],
+		"hateYes": ["A nice suggestion."],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Dagnew","Dinqinesh","Iyasu","Menen","Mengesha","Senedu","Sebhat","Tewabech","Wolde","Zewditu"],
+
+		"outerColor": [255,255,255],
+		"innerColor": [254,209,65],
+		"uniqueName": "Seala Mor",
+		"uniques": ["Comment [May pick between 10 different leaders with different abilities]"
+		,"Comment [Based on the 'Matt's Civs: Ireland' mod, made by mattwho]"],
+		"cities": ["Dublin","Cork","Limerick","Galway","Waterford","Drogheda","Kilkenny","Wexford","Sligo","Clonmel",
+			"Dundlak","Bray","Navan","Ennis","Tralee","Carlow","Naas","Athlone","Letterkenney","Arklow",
+			"Cobh","Castlebar","Midleton","Mallow"]
+	},
+	{
+		"name": "Macedonia",
+		"leaderName": "Aléxandros",
+		"adjective": ["Macedonian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Izica.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We say no because we must."],
+		"neutralYes": ["A beautiful proposition."],
+
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["We refuse."],
+		"hateYes": ["A nice suggestion."],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Aeropus","Arsinoe","Alcetas","Cynane","Caranus","Gygaea","Koinos","Philinna","Orested","Stratonice"],
+
+		"outerColor": [255,255,255],
+		"innerColor": [254,209,65],
+		"uniqueName": "Hellenisation",
+		"uniques": ["[+20]% Production when constructing [All] units [in annexed cities]", "[+2 Culture] from all [Happiness] buildings",
+		,"Comment [Based on the 'Izica's Macedonia (Antiquity)' mod, made by Izica]"],
+		"cities": ["Pella","Aigai","Alexandria","Methone","Chalkidiki","Dion","Alexandroupoli","Amphipolis","Alexandria Troas","Pydna",
+			"Alexandria by the Latmus","Alexandretta","Alexandria in Aria","Alexandria Prophthasia","Alexandria in Arachosia","Aiani","Alexandria in the Caucasus","Alexandria Eschate","Akanthos","Alexandria Oxiana",
+			"Heraclea Lyncestis","Alexandria Bucephala","Alexandria Nicaea","Batman"]
+	},
+	{
+		"name": "Scythia",
+		"leaderName": "Tomyris",
+		"adjective": ["Scythian"],
+		"startBias": ["Plains","Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Izica's.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
+		"attacked": "You have betrayed the trust of the Scythians and now you will pay!",
+		"defeated": "The Empress falls, but I will be remembered. Will you?",
+		"introduction": "Greetings. If you are a true friend, we will have peace, but let it be known, I will repay any treachery with blood!",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do.",
+		"tradeRequest": "I have sent you a trade caravan bearing a decorated gorytos as a gift for you. You will accept, yes?",
+
+		 "spyNames": ["Turxu","Kolax","Argimpas","Scopasis","Artimpada","Apia","Hestia","Lewlelil","Kollippi","Temarun"],
+		
+		"outerColor": [99, 59, 12],
+		"innerColor": [187, 189, 75],
+		
+		"uniqueName": "Speed is Strength, Freedom is Destiny",
+		"uniques": ["Free [Saka Rider] appears <upon conquering a city>", "[+1 Food] from [Open terrain] tiles [in all cities] <after discovering [Horseback Riding]>", "Comment [Reveal all tiles that have [Horses] on game start]",
+					"Reveal up to [all] [Horses] within a [30] tile radius <hidden from users>", "Comment [Based on the 'Izica's Scythia (Antiquity)' mod, made by Izica]"],
+		
+		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Kostromskaya","Myriv","Solokha","Maikop",
+			  "Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya",
+			  "Ogüz","Theodosia"]
+	},
+	{
 		"name": "The Philippines",
 		"leaderName": "Jose Rizal",
 		"adjective": ["Fillipino"],
@@ -7,7 +172,7 @@
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
-		"startIntroPart2": "This Civ was brought to you be Sanseb.",
+		"startIntroPart2": "This Civ was brought to you by Sanseb.",
 		
 		"declaringWar": "You must shatter the vase to spread its perfume, and smite the rock to get the spark.",
 		"attacked": "We do not sleep; we wait for you with fire in our hearts and weapons in our hands.",
@@ -25,7 +190,7 @@
 		"hateYes": ["A nice suggestion."],
 		
 		"afterPeace": "The flame in the hearts of the Filipino people beats on for another day.",
-		"tradeRequest": "I hope this offer benefits you just as much it benefits me, friend..",
+		"tradeRequest": "I hope this offer benefits you just as much it benefits me, friend...",
 
 		"spyNames": ["Dagnew","Dinqinesh","Iyasu","Menen","Mengesha","Senedu","Sebhat","Tewabech","Wolde","Zewditu"],
 
@@ -47,7 +212,7 @@
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
-		"startIntroPart2": "This Civ was brought to you be mattwho.",
+		"startIntroPart2": "This Civ was brought to you by mattwho.",
 		
 		"declaringWar": "!!!",
 		"attacked": "!!!",
