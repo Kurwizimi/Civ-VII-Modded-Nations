@@ -113,7 +113,7 @@
 		"innerColor": [254,209,65],
 		"uniqueName": "Hellenisation",
 		"uniques": ["[+20]% Production when constructing [All] units [in annexed cities]", "[+2 Culture] from all [Happiness] buildings",
-		,"Comment [Based on the 'Izica's Macedonia (Antiquity)' mod, made by Izica]"],
+					"Comment [Based on the 'Izica's Macedonia (Antiquity)' mod, made by Izica]"],
 		"cities": ["Pella","Aigai","Alexandria","Methone","Chalkidiki","Dion","Alexandroupoli","Amphipolis","Alexandria Troas","Pydna",
 			"Alexandria by the Latmus","Alexandretta","Alexandria in Aria","Alexandria Prophthasia","Alexandria in Arachosia","Aiani","Alexandria in the Caucasus","Alexandria Eschate","Akanthos","Alexandria Oxiana",
 			"Heraclea Lyncestis","Alexandria Bucephala","Alexandria Nicaea","Batman"]
