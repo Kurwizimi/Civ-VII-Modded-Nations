@@ -1,5 +1,130 @@
 [
-
+	{
+		"name": "Yamanote",
+		"replaces": "Castle",
+		"uniqueTo": "Edo Japan",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Free [Edo Samurai] appears", "[+1 Food] from [resource] tiles [in this city]", "Destroyed when the city is captured"]
+	},
+	
+	{	
+        "name": "William Butler Yeats",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[+1 Culture] from all [Happiness] buildings", "[+1 Happiness] from all [Culture] buildings",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "William Smith O'Brien",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[+15]% Strength <for [All] units> <if it hasn't used other actions yet>",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "Robert Emmett",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["Earn [20]% of killed [Military] unit's [Strength] as [Culture]","New [Land] units start with [15] XP [in all cities]",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "Michael Collins",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[-33]% XP required for promotions",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "Kathleen Clarke",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["Production to [Science] conversion in cities changed by [+75]%",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "James Gralton",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[-50]% construction time for [Farm] improvements","[-50]% construction time for [Mine] improvements",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "James Connolly",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[+2 Food, +2 Production, +2 Gold, +2 Science, +2 Culture] [in all cities]",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "Éamon de Valera",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[+3 Culture] [in all cities]","[-50]% unhappiness from the number of cities",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "Daniel O'Connell",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[+2 Science] from all [Production] buildings",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "Constance Markievicz",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["[+1 Gold, +2 Culture] from every specialist [in all cities]",
+				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+	},
+	{	
+        "name": "Remove Statesman",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Ireland",
+		"uniques": ["Remove [Statesman] [in all cities]",
+			"Can only be built<in [in capital] cities>", "Only available <in cities with a [Statesman]>"]	
+	},
+	{
+        "name": "The Liberties",
+		"replaces": "Police Station",
+		"uniqueTo": "Ireland",
+        "cost": 300,
+        "maintenance": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["[-25]% enemy spy effectiveness [in this city]",
+					"Comment [+1 [Culture] for every 5 [Happiness]]", "[+1 Culture] <for every [[Happiness] / 5]> <hidden from users>",],
+        "requiredBuilding": "Constabulary",
+        "requiredTech": "Electricity"
+    },
+	{
+		"name": "Agora",
+		"replaces": "Market",
+		"uniqueTo": "Macedonia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+		"uniques": ["[+1 Culture] from each Trade Route"]
+	},
+	
+	
+	
 	{
 		"name": "Intramuros",
 		"replaces": "Arsenal",
