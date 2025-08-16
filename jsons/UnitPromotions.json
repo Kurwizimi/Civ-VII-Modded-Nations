@@ -1,7 +1,11 @@
 [
+         {
+        "name": "[Edo Samurai] ability",
+       "uniques": ["[+15]% Strength <when below [75] HP>"]
+    },
         {
         "name": "[Katipunero] ability",
-       "uniques": ["[+10]% Strength <when fighting in [Friendly Land] tiles>", "Double movement in [Forest]"]
+       "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "Double movement in [Forest]"]
     },
        
        {
