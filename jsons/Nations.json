@@ -29,8 +29,8 @@
 
 		 "spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
 		
-		"outerColor": [255,255,255],
-		"innerColor": [254,209,65],
+		"outerColor": [30,20,10],
+		"innerColor": [240,250,10],
 		"uniqueName": "Sakoku Edict",
 		"uniques": ["[+1 Science, +1 Culture, +1 Gold] from [{improved} {Luxury resource}] tiles [in all cities]", "[-50]% [Happiness] [in all cities] <for [5] turns> <upon declaring friendship>"
 		,"Comment [Based on the 'Hellpanda's Edo Japan (Exploration)' mod, made by Hellpanda]"],
@@ -70,8 +70,8 @@
 
 		"spyNames": ["Dagnew","Dinqinesh","Iyasu","Menen","Mengesha","Senedu","Sebhat","Tewabech","Wolde","Zewditu"],
 
-		"outerColor": [255,255,255],
-		"innerColor": [254,209,65],
+		"outerColor": [1,30,80],
+		"innerColor": [255,203,1],
 		"uniqueName": "Seala Mor",
 		"uniques": ["Comment [May pick between 10 different leaders with different abilities]"
 		,"Comment [Based on the 'Matt's Civs: Ireland' mod, made by mattwho]"],
@@ -109,8 +109,8 @@
 
 		"spyNames": ["Aeropus","Arsinoe","Alcetas","Cynane","Caranus","Gygaea","Koinos","Philinna","Orested","Stratonice"],
 
-		"outerColor": [255,255,255],
-		"innerColor": [254,209,65],
+		"outerColor": [170,50,25],
+		"innerColor": [255,240,230],
 		"uniqueName": "Hellenisation",
 		"uniques": ["[+20]% Production when constructing [All] units [in annexed cities]", "[+2 Culture] from all [Happiness] buildings",
 					"Comment [Based on the 'Izica's Macedonia (Antiquity)' mod, made by Izica]"],
