@@ -1,48 +1,125 @@
 
 game.png
-size: 1024, 128
+size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Agora
+  rotate: false
+  xy: 332, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 BuildingIcons/Intramuros
   rotate: false
-  xy: 114, 4
+  xy: 724, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Takht
   rotate: false
-  xy: 408, 4
+  xy: 1214, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+BuildingIcons/The Liberties
+  rotate: false
+  xy: 1312, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yamanote
+  rotate: false
+  xy: 1508, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Edo Japan
+  rotate: false
+  xy: 626, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Ireland
+  rotate: false
+  xy: 822, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Macedonia
+  rotate: false
+  xy: 1116, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Scythia
+  rotate: false
+  xy: 4, 14
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
 NationIcons/The Philippines
   rotate: false
-  xy: 4, 4
+  xy: 114, 14
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/The Sikh Empire
   rotate: false
-  xy: 506, 4
+  xy: 1410, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+UnitIcons/Agyrasipdes
+  rotate: false
+  xy: 430, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Ambassador
+  rotate: false
+  xy: 528, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Edo Samurai
+  rotate: false
+  xy: 224, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Jatha
   rotate: false
-  xy: 212, 4
+  xy: 920, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Katipunero
   rotate: false
-  xy: 310, 4
+  xy: 1018, 14
   size: 90, 90
   orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Saka Rider
+  rotate: false
+  xy: 1606, 15
+  size: 89, 89
+  orig: 89, 89
   offset: 0, 0
   index: -1
