@@ -1,4 +1,5 @@
 [
+
 	{
 		"name": "Yamanote",
 		"replaces": "Castle",
@@ -10,7 +11,7 @@
 		"requiredTech": "Chivalry",
 		"uniques": ["Free [Edo Samurai] appears", "[+1 Food] from [resource] tiles [in this city]", "Destroyed when the city is captured"]
 	},
-	
+  
 	{	
         "name": "William Butler Yeats",
 		"isNationalWonder": true,
@@ -99,6 +100,7 @@
 		"uniques": ["Remove [Statesman] [in all cities]",
 			"Can only be built<in [in capital] cities>", "Only available <in cities with a [Statesman]>"]	
 	},
+
 	{
         "name": "The Liberties",
 		"replaces": "Police Station",
@@ -122,9 +124,7 @@
 		"requiredTech": "Currency"
 		"uniques": ["[+1 Culture] from each Trade Route"]
 	},
-	
-	
-	
+
 	{
 		"name": "Intramuros",
 		"replaces": "Arsenal",
