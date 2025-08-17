@@ -20,21 +20,28 @@ BuildingIcons/Intramuros
   index: -1
 BuildingIcons/Takht
   rotate: false
-  xy: 1214, 14
+  xy: 1312, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/The Liberties
   rotate: false
-  xy: 1312, 14
+  xy: 1410, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Yamanote
   rotate: false
-  xy: 1508, 14
+  xy: 1606, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Royal Kurgan
+  rotate: false
+  xy: 1214, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -76,7 +83,7 @@ NationIcons/The Philippines
   index: -1
 NationIcons/The Sikh Empire
   rotate: false
-  xy: 1410, 14
+  xy: 1508, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -118,7 +125,7 @@ UnitIcons/Katipunero
   index: -1
 UnitIcons/Saka Rider
   rotate: false
-  xy: 1606, 15
+  xy: 1704, 15
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
