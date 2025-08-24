@@ -119,6 +119,45 @@
 			"Heraclea Lyncestis","Alexandria Bucephala","Alexandria Nicaea","Batman"]
 	},
 	{
+		"name": "Scotland",
+		"leaderName": "Adam Smith",
+		"adjective": ["Scottish"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by mattwho.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We say no because we must."],
+		"neutralYes": ["A beautiful proposition."],
+
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["We refuse."],
+		"hateYes": ["A nice suggestion."],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Aeropus","Arsinoe","Alcetas","Cynane","Caranus","Gygaea","Koinos","Philinna","Orested","Stratonice"],
+
+		"outerColor": [170,50,25],
+		"innerColor": [255,240,230],
+		"uniqueName": "Humanism",
+		"uniques": ["[+20]% Production when constructing [All] units [in annexed cities]", "[+2 Culture] from all [Happiness] buildings",
+					"Comment [Based on the 'Izica's Macedonia (Antiquity)' mod, made by Izica]"],
+		"cities": ["Pella","Aigai","Alexandria","Methone","Chalkidiki","Dion","Alexandroupoli","Amphipolis","Alexandria Troas","Pydna",
+			"Alexandria by the Latmus","Alexandretta","Alexandria in Aria","Alexandria Prophthasia","Alexandria in Arachosia","Aiani","Alexandria in the Caucasus","Alexandria Eschate","Akanthos","Alexandria Oxiana",
+			"Heraclea Lyncestis","Alexandria Bucephala","Alexandria Nicaea","Batman"]
+	},
+	{
 		"name": "Scythia",
 		"leaderName": "Tomyris",
 		"adjective": ["Scythian"],
@@ -239,6 +278,44 @@
 		"uniqueName": "Asa Di Var",
 		"uniques": ["[2] free [Great Prophet] units appear <upon entering a new era> <starting from the [Renaissance era]>", "[+2 Culture] [in cities following our religion]"
 		,"Comment [Based on the 'Matt's Civs: Sikh Empire' mod, made by mattwho]"],
+		"cities": ["Lahore","Gujranwala","Amritsar","Multan","Srinagar","Jammu","Attock","Kasur","Sialkot","Peshawar",
+			"Skardu","Chhachhrauli","Kaithal","Patiala","Sangrur","Thanesar","Ludhiana","Ambala","Firozpur","Ferozeshah"]
+	},
+	{
+		"name": "Wagadu",
+		"leaderName": "Ghana Dinga",
+		"adjective": ["Ghanan"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Goggle.",
+		
+		"declaringWar": "!!!",
+		"attacked": "!!!",
+		"defeated": "-_-",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [],
+		"hateNo": [""],
+		"hateYes": [],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Ranjit","Bedi","Arjan","Banda","Jassa","Nakkai","Sebhat","Tewabech","Wolde","Zewditu"],
+
+		"outerColor": [220,105,0],
+		"innerColor": [50,20,0],
+		"uniqueName": "Gassire's Lute",
+		"uniques": ["[+1 Happiness] from each Trade Route"
+		,"Comment [Based on the 'Goggle's Wagadu' mod, made by Goggle]"],
 		"cities": ["Lahore","Gujranwala","Amritsar","Multan","Srinagar","Jammu","Attock","Kasur","Sialkot","Peshawar",
 			"Skardu","Chhachhrauli","Kaithal","Patiala","Sangrur","Thanesar","Ludhiana","Ambala","Firozpur","Ferozeshah"]
 	},
