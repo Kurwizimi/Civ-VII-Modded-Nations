@@ -39,6 +39,46 @@
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
 			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
 	},
+
+	{
+		"name": "Goryeo",
+		"leaderName": "",
+		"adjective": ["Korean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Goggle.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We say no because we must."],
+		"neutralYes": ["A beautiful proposition."],
+
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["We refuse."],
+		"hateYes": ["A nice suggestion."],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		
+	    "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Da", "Eun"],
+		
+		"outerColor": [255,0,0],
+		"innerColor": [27,33,96],
+		"uniqueName": "Negotiation of Seohui",
+		"uniques": ["[+50]% [Gold] [non- {Capital}]", "[-1 Happiness] [non- {Capital}]"
+		,"Comment [Based on the 'Goggle's Goryeo (Exploration)' mod, made by Goggle]"],
+		"cities": ["Gaegyeong","Kaesongdo","Songdo","Ganghwa","Wangseong","Kaesong","Balhae","Georan","Yeojin","Sangseo",
+			"Kaesongbu","Bukgye","Seonaedo","Ryeongju","Gyojudo","Namgyeong","Gwangjumok","Chungjumok","Tamna","Donggyeong",
+			"Jeonjumok","Rajumok"]
+	},
 	
 	{
 		"name": "Ireland",
@@ -146,16 +186,16 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"spyNames": ["Aeropus","Arsinoe","Alcetas","Cynane","Caranus","Gygaea","Koinos","Philinna","Orested","Stratonice"],
+		"spyNames": ["David","William","John","John","John","Thomas","Mavis","Hector","Mary","That one guy that stole my bike next to a Italian restraunt in Aberdeen"],
 
-		"outerColor": [170,50,25],
-		"innerColor": [255,240,230],
+		"outerColor": [230,160,60],
+		"innerColor": [170,10,10],
 		"uniqueName": "Humanism",
-		"uniques": ["[+20]% Production when constructing [All] units [in annexed cities]", "[+2 Culture] from all [Happiness] buildings",
-					"Comment [Based on the 'Izica's Macedonia (Antiquity)' mod, made by Izica]"],
-		"cities": ["Pella","Aigai","Alexandria","Methone","Chalkidiki","Dion","Alexandroupoli","Amphipolis","Alexandria Troas","Pydna",
-			"Alexandria by the Latmus","Alexandretta","Alexandria in Aria","Alexandria Prophthasia","Alexandria in Arachosia","Aiani","Alexandria in the Caucasus","Alexandria Eschate","Akanthos","Alexandria Oxiana",
-			"Heraclea Lyncestis","Alexandria Bucephala","Alexandria Nicaea","Batman"]
+		"uniques": ["Comment [All cities gain bonus [Production] equal to 10% of that cities [Science]]","Gain a free [Grammar School] [in all cities]",
+					"Comment [Based on the 'Matt's Civs: Scotland)' mod, made by mattwho]"],
+		"cities": ["Edinburgh","Glasgow","Aberdeen","Inverness","Sterling","Dumfries","Dundee","Scone","Selkirk","Cumbernauld",
+			"Saint Andrews","Berwick-upon-Tweed","Forres","Roxburgh","Haddington","Ayr","Cullen","Dumbarton","Wigtown","Perth",
+			"Cupar","Clackmannan","Linlithgow","Jedburgh"]
 	},
 	{
 		"name": "Scythia",
@@ -301,7 +341,7 @@
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": "",
+		"hateHello": [""],
 		"hateLetsHearIt": [],
 		"hateNo": [""],
 		"hateYes": [],
@@ -309,15 +349,14 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"spyNames": ["Ranjit","Bedi","Arjan","Banda","Jassa","Nakkai","Sebhat","Tewabech","Wolde","Zewditu"],
+		"spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"],
 
-		"outerColor": [220,105,0],
-		"innerColor": [50,20,0],
+		"outerColor": [150,140,50],
+		"innerColor": [200,90,90],
 		"uniqueName": "Gassire's Lute",
 		"uniques": ["[+1 Happiness] from each Trade Route"
 		,"Comment [Based on the 'Goggle's Wagadu' mod, made by Goggle]"],
-		"cities": ["Lahore","Gujranwala","Amritsar","Multan","Srinagar","Jammu","Attock","Kasur","Sialkot","Peshawar",
-			"Skardu","Chhachhrauli","Kaithal","Patiala","Sangrur","Thanesar","Ludhiana","Ambala","Firozpur","Ferozeshah"]
+		"cities": ["Koumbi Saleh","Aoudaghost","Oualata","Tichitt","Nema","Galam","Dia","Sosso","Diara","Goumbou"]
 	},
 	
 ]
