@@ -14,7 +14,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": ["Greetings, friend."],
+		"neutralHello": [],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -55,7 +55,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": ["Greetings, friend."],
+		"neutralHello": [],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -95,7 +95,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": ["Greetings, friend."],
+		"neutralHello": [],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -134,7 +134,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": ["Greetings, friend."],
+		"neutralHello": [],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -173,7 +173,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": ["Greetings, friend."],
+		"neutralHello": [],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -296,7 +296,7 @@
 		"defeated": "...Consummatum est.",
 		"introduction": "I am Jose Rizal, poet, painter, revolutionary.",
 		
-		"neutralHello": ["Greetings, friend."],
+		"neutralHello": [],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
