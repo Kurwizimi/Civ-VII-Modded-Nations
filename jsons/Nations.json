@@ -311,7 +311,7 @@
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
 
-		"hateHello": "State your purpose.",
+		"hateHello": ["State your purpose."],
 		"hateLetsHearIt": ["..."],
 		"hateNo": ["We refuse."],
 		"hateYes": ["A nice suggestion."],
@@ -351,7 +351,7 @@
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": "",
+		"hateHello": [""],
 		"hateLetsHearIt": [],
 		"hateNo": [""],
 		"hateYes": [],
