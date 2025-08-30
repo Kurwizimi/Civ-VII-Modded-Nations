@@ -163,7 +163,7 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Temple",
+		"name": "Fürstabtei",
 		"replaces": "Temple",
 		"uniqueTo": "Swiss Confederacy",
 		"faith": 2,
