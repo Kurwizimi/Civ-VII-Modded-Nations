@@ -14,6 +14,25 @@
 		"promotions": ["[Edo Samurai] ability"],
 		"attackSound": "metalhit"
 	},
+
+	{
+		"name": "Byeolmuban",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "Goryeo",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[+1] Sight", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"promotions": ["[Byeolmuban] ability"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	
 	{
 		"name": "Ambassador",
 		"unitType": "Civilian",
@@ -38,6 +57,19 @@
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Humanist",
+		"unitType": "Civilian",
+		"replaces": "Missionary",
+		"uniqueTo": "Scotland",
+		"uniques": [
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+			"Can be purchased with [Faith] [in all cities]",
+			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]",
+			"[-1] Sight", "Unbuildable", "Religious Unit"],
+		"movement": 4,
+		"religiousStrength": 1
 	},
 	{
 		"name": "Saka Rider",
@@ -83,6 +115,19 @@
 		"promotions": ["[Jatha] ability"],
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
+	},
+
+	{
+		"name": "Trans-Saharan Merchant",
+		"replaces": "Rifleman",
+		"uniqueTo": "Wagadu",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+			"May enter foreign tiles without open borders",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 6
 	},
 
 ]
