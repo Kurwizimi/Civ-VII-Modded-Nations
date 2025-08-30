@@ -205,7 +205,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
-		"startIntroPart2": "This Civ was brought to you by Izica's.",
+		"startIntroPart2": "This Civ was brought to you by Izica.",
 		
 		"declaringWar": "",
 		"attacked": "",
@@ -243,6 +243,54 @@
 			  "Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya",
 			  "Ogüz","Theodosia"]
 	},
+
+	{
+		"name": "Swiss Confederacy",
+		"leaderName": "",
+		"adjective": ["Swiss"],
+		"startBias": ["Mountain","Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Goggle.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"declaringWar": "e",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do.",
+		"tradeRequest": "",
+
+		"spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Martine", "Lucien", "François", "Vipère", "Yvette", "Renard"]
+		
+		"outerColor": [255, 230, 230],
+		"innerColor": [218, 41, 28],
+		
+		"uniqueName": "Eidgenossenschaft",
+		"uniques": ["[+1 Happiness, +1 Food] from [Mountain] tiles [in all cities]", "[+1 Culture] from [Hill] tiles [in all cities] <for every adjacent [Mountain]>",
+			"Comment [Based on the 'Goggle's Swiss Confederacy (Exploration)' mod, made by Goggle]"],
+		
+		"cities": ["Zurich","Geneva","Bern","Basel","Lausanne","Winterthur","Lucerne","St. Gallen","Lugano","Biel",
+			  "Thun","Bellinzona","Fribourg","Köniz","Schaffhausen","La Chaux-de-Fonds","Cher","Uster","Sion","Vernier",
+			  "Lancy","Neuchâtel"]
+	},
+	
 	{
 		"name": "The Philippines",
 		"leaderName": "Jose Rizal",
