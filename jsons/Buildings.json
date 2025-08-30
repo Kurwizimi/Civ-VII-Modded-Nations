@@ -145,6 +145,34 @@
         "uniques": ["[+1 Science] from all [Production] buildings <in this city>", "[-25]% enemy spy effectiveness [in this city]"],
         "requiredTech": "Banking"
     },
+	{
+        "name": "Grammar School",
+        "cost": 1,
+        "hurryCostModifier": 1966,
+        "uniques": ["[+1 Production] per every [10] [Science] <in this city>", "Only available <for [Scotland] Civilizations>"],
+    },
+
+	{
+		"name": "Stiftsarchiv",
+		"replaces": "Library",
+		"uniqueTo": "Swiss Confederation",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"science": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] from [Mountain] tiles [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Temple",
+		"replaces": "Temple",
+		"uniqueTo": "Swiss Confederation",
+		"faith": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Science] from every specialist [in this city]"]
+	},
+	
 
 	{
 		"name": "Intramuros",
