@@ -155,7 +155,7 @@
 	{
 		"name": "Stiftsarchiv",
 		"replaces": "Library",
-		"uniqueTo": "Swiss Confederation",
+		"uniqueTo": "Swiss Confederacy",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"science": 1,
@@ -165,7 +165,7 @@
 	{
 		"name": "Temple",
 		"replaces": "Temple",
-		"uniqueTo": "Swiss Confederation",
+		"uniqueTo": "Swiss Confederacy",
 		"faith": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
