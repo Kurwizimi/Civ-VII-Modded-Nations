@@ -14,12 +14,12 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
+		"neutralHello": ["Greetings, friend."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
 
-		"hateHello": "State your purpose.",
+		"hateHello": ["State your purpose."],
 		"hateLetsHearIt": ["..."],
 		"hateNo": ["We refuse."],
 		"hateYes": ["A nice suggestion."],
@@ -55,12 +55,12 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
+		"neutralHello": ["Greetings, friend."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
 
-		"hateHello": "State your purpose.",
+		"hateHello": ["State your purpose."],
 		"hateLetsHearIt": ["..."],
 		"hateNo": ["We refuse."],
 		"hateYes": ["A nice suggestion."],
@@ -95,12 +95,12 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
+		"neutralHello": ["Greetings, friend."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
 
-		"hateHello": "State your purpose.",
+		"hateHello": ["State your purpose."],
 		"hateLetsHearIt": ["..."],
 		"hateNo": ["We refuse."],
 		"hateYes": ["A nice suggestion."],
@@ -134,12 +134,12 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
+		"neutralHello": ["Greetings, friend."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
 
-		"hateHello": "State your purpose.",
+		"hateHello": ["State your purpose."],
 		"hateLetsHearIt": ["..."],
 		"hateNo": ["We refuse."],
 		"hateYes": ["A nice suggestion."],
@@ -173,12 +173,12 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
+		"neutralHello": ["Greetings, friend."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
 
-		"hateHello": "State your purpose.",
+		"hateHello": ["State your purpose."],
 		"hateLetsHearIt": ["..."],
 		"hateNo": ["We refuse."],
 		"hateYes": ["A nice suggestion."],
@@ -207,22 +207,17 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "This Civ was brought to you by Izica.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
-		
 		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
 		"attacked": "You have betrayed the trust of the Scythians and now you will pay!",
 		"defeated": "The Empress falls, but I will be remembered. Will you?",
 		"introduction": "Greetings. If you are a true friend, we will have peace, but let it be known, I will repay any treachery with blood!",
 		
-		"neutralHello": "I hear you.",
+		"neutralHello": ["I hear you."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["I refuse."],
 		"neutralYes": ["Very good."],
 
-		"hateHello": "What can you do for me?",
+		"hateHello": ["What can you do for me?"],
 		"hateLetsHearIt": ["Go on."],
 		"hateNo": [,"You are worthless"],
 		"hateYes": ["Maybe just this once..."],
@@ -259,17 +254,12 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"declaringWar": "e",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
-		
-		"neutralHello": "I hear you.",
+		"neutralHello": ["I hear you."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["I refuse."],
 		"neutralYes": ["Very good."],
 
-		"hateHello": "What can you do for me?",
+		"hateHello": ["What can you do for me?"],
 		"hateLetsHearIt": ["Go on."],
 		"hateNo": [,"You are worthless"],
 		"hateYes": ["Maybe just this once..."],
@@ -306,7 +296,7 @@
 		"defeated": "...Consummatum est.",
 		"introduction": "I am Jose Rizal, poet, painter, revolutionary.",
 		
-		"neutralHello": "Greetings, friend.",
+		"neutralHello": ["Greetings, friend."],
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
