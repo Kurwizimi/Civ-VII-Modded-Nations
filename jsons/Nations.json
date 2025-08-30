@@ -14,7 +14,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "",
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -55,7 +55,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": [""],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -95,7 +95,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": [""],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -134,7 +134,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": [""],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -173,7 +173,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": [""],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -212,7 +212,7 @@
 		"defeated": "The Empress falls, but I will be remembered. Will you?",
 		"introduction": "Greetings. If you are a true friend, we will have peace, but let it be known, I will repay any treachery with blood!",
 		
-		"neutralHello": ["I hear you."],
+		"neutralHello": "I hear you..",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["I refuse."],
 		"neutralYes": ["Very good."],
@@ -254,7 +254,7 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": ["I hear you."],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["I refuse."],
 		"neutralYes": ["Very good."],
@@ -296,7 +296,7 @@
 		"defeated": "...Consummatum est.",
 		"introduction": "I am Jose Rizal, poet, painter, revolutionary.",
 		
-		"neutralHello": [""],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -336,7 +336,7 @@
 		"defeated": "-_-",
 		"introduction": "",
 		
-		"neutralHello": [""],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
@@ -374,7 +374,7 @@
 		"defeated": "-_-",
 		"introduction": "",
 		
-		"neutralHello": [""],
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
