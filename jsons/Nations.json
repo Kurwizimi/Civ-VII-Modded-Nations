@@ -336,7 +336,7 @@
 		"defeated": "-_-",
 		"introduction": "",
 		
-		"neutralHello": "",
+		"neutralHello": [""],
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
@@ -374,7 +374,7 @@
 		"defeated": "-_-",
 		"introduction": "",
 		
-		"neutralHello": "",
+		"neutralHello": [""],
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
