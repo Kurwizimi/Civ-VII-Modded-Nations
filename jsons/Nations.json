@@ -74,7 +74,7 @@
 		"innerColor": [27,33,96],
 		"uniqueName": "Negotiation of Seohui",
 		//"uniques": ["[+50]% [Gold] [non- {Capital}]", "[-1 Happiness] [non- {Capital}]"
-		,"Comment [Based on the 'Goggle's Goryeo (Exploration)' mod, made by Goggle]"],//
+		//,"Comment [Based on the 'Goggle's Goryeo (Exploration)' mod, made by Goggle]"],
 		"cities": ["Gaegyeong","Kaesongdo","Songdo","Ganghwa","Wangseong","Kaesong","Balhae","Georan","Yeojin","Sangseo",
 			"Kaesongbu","Bukgye","Seonaedo","Ryeongju","Gyojudo","Namgyeong","Gwangjumok","Chungjumok","Tamna","Donggyeong",
 			"Jeonjumok","Rajumok"]
