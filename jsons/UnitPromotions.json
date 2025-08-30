@@ -1,19 +1,26 @@
 [
          {
         "name": "[Edo Samurai] ability",
-       "uniques": ["[+15]% Strength <when below [75] HP>"]
+        "uniques": ["[+15]% Strength <when below [75] HP>"]
     },
+         
+         {
+        "name": "[Byeolmuban] ability",
+        "uniques": ["[+40]% Strength <vs [Mounted] units>"]
+    },
+         
         {
         "name": "[Katipunero] ability",
-       "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "Double movement in [Forest]"]
+        "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>",
+                 "Double movement in [Forest]"]
     },
        
        {
         "name": "[Jatha] ability",
-       "uniques": ["Gain [5] [Culture] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
-                       "Gain [10] [Science] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
-                       "Gain [10] [Faith] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
-                       "Gain [10] [Gold] <upon ending a turn in a [City center] tile>  <(modified by game speed)>"]
+        "uniques": ["Gain [5] [Culture] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
+                  "Gain [10] [Science] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
+                  "Gain [10] [Faith] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
+                  "Gain [10] [Gold] <upon ending a turn in a [City center] tile>  <(modified by game speed)>"]
     },
 
        

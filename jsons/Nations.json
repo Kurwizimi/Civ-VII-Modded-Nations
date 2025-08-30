@@ -39,6 +39,46 @@
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
 			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
 	},
+
+	{
+		"name": "Goryeo",
+		"leaderName": "Taejo",
+		"adjective": ["Korean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Goggle.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We say no because we must."],
+		"neutralYes": ["A beautiful proposition."],
+
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["We refuse."],
+		"hateYes": ["A nice suggestion."],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		
+	    "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Da", "Eun"],
+		
+		"outerColor": [255,0,0],
+		"innerColor": [27,33,96],
+		"uniqueName": "Negotiation of Seohui",
+		"uniques": ["[+50]% [Gold] [non- {Capital}]", "[-1 Happiness] [non- {Capital}]"
+		,"Comment [Based on the 'Goggle's Goryeo (Exploration)' mod, made by Goggle]"],
+		"cities": ["Gaegyeong","Kaesongdo","Songdo","Ganghwa","Wangseong","Kaesong","Balhae","Georan","Yeojin","Sangseo",
+			"Kaesongbu","Bukgye","Seonaedo","Ryeongju","Gyojudo","Namgyeong","Gwangjumok","Chungjumok","Tamna","Donggyeong",
+			"Jeonjumok","Rajumok"]
+	},
 	
 	{
 		"name": "Ireland",
@@ -119,6 +159,45 @@
 			"Heraclea Lyncestis","Alexandria Bucephala","Alexandria Nicaea","Batman"]
 	},
 	{
+		"name": "Scotland",
+		"leaderName": "Adam Smith",
+		"adjective": ["Scottish"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by mattwho.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We say no because we must."],
+		"neutralYes": ["A beautiful proposition."],
+
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["We refuse."],
+		"hateYes": ["A nice suggestion."],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["David","William","John","John","John","Thomas","Mavis","Hector","Mary","That one guy that stole my bike next to a Italian restraunt in Aberdeen"],
+
+		"outerColor": [230,160,60],
+		"innerColor": [170,10,10],
+		"uniqueName": "Humanism",
+		"uniques": ["Comment [All cities gain bonus [Production] equal to 10% of that cities [Science]]","Gain a free [Grammar School] [in all cities]",
+					"Comment [Based on the 'Matt's Civs: Scotland)' mod, made by mattwho]"],
+		"cities": ["Edinburgh","Glasgow","Aberdeen","Inverness","Sterling","Dumfries","Dundee","Scone","Selkirk","Cumbernauld",
+			"Saint Andrews","Berwick-upon-Tweed","Forres","Roxburgh","Haddington","Ayr","Cullen","Dumbarton","Wigtown","Perth",
+			"Cupar","Clackmannan","Linlithgow","Jedburgh"]
+	},
+	{
 		"name": "Scythia",
 		"leaderName": "Tomyris",
 		"adjective": ["Scythian"],
@@ -126,7 +205,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
-		"startIntroPart2": "This Civ was brought to you by Izica's.",
+		"startIntroPart2": "This Civ was brought to you by Izica.",
 		
 		"declaringWar": "",
 		"attacked": "",
@@ -164,6 +243,54 @@
 			  "Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya",
 			  "Ogüz","Theodosia"]
 	},
+
+	{
+		"name": "Swiss Confederacy",
+		"leaderName": "",
+		"adjective": ["Swiss"],
+		"startBias": ["Mountain","Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Goggle.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"declaringWar": "e",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do.",
+		"tradeRequest": "",
+
+		"spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Martine", "Lucien", "François", "Vipère", "Yvette", "Renard"]
+		
+		"outerColor": [255, 230, 230],
+		"innerColor": [218, 41, 28],
+		
+		"uniqueName": "Eidgenossenschaft",
+		"uniques": ["[+1 Happiness, +1 Food] from [Mountain] tiles [in all cities]", "[+1 Culture] from [Hill] tiles [in all cities] <for every adjacent [Mountain]>",
+			"Comment [Based on the 'Goggle's Swiss Confederacy (Exploration)' mod, made by Goggle]"],
+		
+		"cities": ["Zurich","Geneva","Bern","Basel","Lausanne","Winterthur","Lucerne","St. Gallen","Lugano","Biel",
+			  "Thun","Bellinzona","Fribourg","Köniz","Schaffhausen","La Chaux-de-Fonds","Cher","Uster","Sion","Vernier",
+			  "Lancy","Neuchâtel"]
+	},
+	
 	{
 		"name": "The Philippines",
 		"leaderName": "Jose Rizal",
@@ -241,6 +368,43 @@
 		,"Comment [Based on the 'Matt's Civs: Sikh Empire' mod, made by mattwho]"],
 		"cities": ["Lahore","Gujranwala","Amritsar","Multan","Srinagar","Jammu","Attock","Kasur","Sialkot","Peshawar",
 			"Skardu","Chhachhrauli","Kaithal","Patiala","Sangrur","Thanesar","Ludhiana","Ambala","Firozpur","Ferozeshah"]
+	},
+	{
+		"name": "Wagadu",
+		"leaderName": "Ghana Dinga",
+		"adjective": ["Ghanan"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Goggle.",
+		
+		"declaringWar": "!!!",
+		"attacked": "!!!",
+		"defeated": "-_-",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": [""],
+		"hateLetsHearIt": [],
+		"hateNo": [""],
+		"hateYes": [],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"],
+
+		"outerColor": [150,140,50],
+		"innerColor": [200,90,90],
+		"uniqueName": "Gassire's Lute",
+		"uniques": ["[+1 Happiness] from each Trade Route"
+		,"Comment [Based on the 'Goggle's Wagadu' mod, made by Goggle]"],
+		"cities": ["Koumbi Saleh","Aoudaghost","Oualata","Tichitt","Nema","Galam","Dia","Sosso","Diara","Goumbou"]
 	},
 	
 ]
