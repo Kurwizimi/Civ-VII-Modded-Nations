@@ -203,6 +203,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
+		"gold": 2,
 		"uniques": ["[+1 Happiness, +1 Gold] from each Trade Route"]
 	},
 
