@@ -392,7 +392,7 @@
 		"outerColor": [186, 180, 121],
 		"innerColor": [135, 64, 64],
 		"uniqueName": "Gassire's Lute",
-		"uniques": ["[+1 Happiness] from each Trade Route"
+		"uniques": ["[+2 Happiness, +1 Culture] from each Trade Route"
 		,"Comment [Based on the 'Goggle's Wagadu' mod, made by Goggle]"],
 		"cities": ["Koumbi Saleh","Aoudaghost","Oualata","Tichitt","Nema","Galam","Dia","Sosso","Diara","Goumbou"]
 	},
