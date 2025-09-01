@@ -241,7 +241,7 @@
 
 	{
 		"name": "Swiss Confederacy",
-		"leaderName": "",
+		"leaderName": "Heinrich Bullinger",
 		"adjective": ["Swiss"],
 		"startBias": ["Mountain","Tundra"],
 		"preferredVictoryType": "Scientific",
