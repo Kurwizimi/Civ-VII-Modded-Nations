@@ -389,8 +389,8 @@
 
 		"spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"],
 
-		"outerColor": [150,140,50],
-		"innerColor": [200,90,90],
+		"outerColor": [186, 180, 121],
+		"innerColor": [135, 64, 64],
 		"uniqueName": "Gassire's Lute",
 		"uniques": ["[+1 Happiness] from each Trade Route"
 		,"Comment [Based on the 'Goggle's Wagadu' mod, made by Goggle]"],
