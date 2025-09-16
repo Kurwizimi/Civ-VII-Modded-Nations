@@ -14,15 +14,15 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
-		"neutralLetsHearIt": ["Go on."],
-		"neutralNo": ["We say no because we must."],
-		"neutralYes": ["A beautiful proposition."],
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
 
-		"hateHello": "State your purpose.",
-		"hateLetsHearIt": ["..."],
-		"hateNo": ["We refuse."],
-		"hateYes": ["A nice suggestion."],
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
 		
 		"afterPeace": "",
 		"tradeRequest": "",
@@ -55,16 +55,16 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
-		"neutralLetsHearIt": ["Go on."],
-		"neutralNo": ["We say no because we must."],
-		"neutralYes": ["A beautiful proposition."],
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
 
-		"hateHello": "State your purpose.",
-		"hateLetsHearIt": ["..."],
-		"hateNo": ["We refuse."],
-		"hateYes": ["A nice suggestion."],
-		
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+
 		"afterPeace": "",
 		"tradeRequest": "",
 		
@@ -73,8 +73,8 @@
 		"outerColor": [255,0,0],
 		"innerColor": [27,33,96],
 		"uniqueName": "Negotiation of Seohui",
-		"uniques": ["[+50]% [Gold] [non- {Capital}]", "[-1 Happiness] [non- {Capital}]"
-		,"Comment [Based on the 'Goggle's Goryeo (Exploration)' mod, made by Goggle]"],
+		"uniques": ["[+50]% [Gold] [in all cities connected to capital]", "[-1 Happiness] [in all cities connected to capital]",
+		"Comment [Based on the 'Goggle's Goryeo (Exploration)' mod, made by Goggle]"],
 		"cities": ["Gaegyeong","Kaesongdo","Songdo","Ganghwa","Wangseong","Kaesong","Balhae","Georan","Yeojin","Sangseo",
 			"Kaesongbu","Bukgye","Seonaedo","Ryeongju","Gyojudo","Namgyeong","Gwangjumok","Chungjumok","Tamna","Donggyeong",
 			"Jeonjumok","Rajumok"]
@@ -95,16 +95,16 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
-		"neutralLetsHearIt": ["Go on."],
-		"neutralNo": ["We say no because we must."],
-		"neutralYes": ["A beautiful proposition."],
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
 
-		"hateHello": "State your purpose.",
-		"hateLetsHearIt": ["..."],
-		"hateNo": ["We refuse."],
-		"hateYes": ["A nice suggestion."],
-		
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+
 		"afterPeace": "",
 		"tradeRequest": "",
 
@@ -134,15 +134,15 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
-		"neutralLetsHearIt": ["Go on."],
-		"neutralNo": ["We say no because we must."],
-		"neutralYes": ["A beautiful proposition."],
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
 
-		"hateHello": "State your purpose.",
-		"hateLetsHearIt": ["..."],
-		"hateNo": ["We refuse."],
-		"hateYes": ["A nice suggestion."],
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
 		
 		"afterPeace": "",
 		"tradeRequest": "",
@@ -173,15 +173,15 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "Greetings, friend.",
-		"neutralLetsHearIt": ["Go on."],
-		"neutralNo": ["We say no because we must."],
-		"neutralYes": ["A beautiful proposition."],
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
 
-		"hateHello": "State your purpose.",
-		"hateLetsHearIt": ["..."],
-		"hateNo": ["We refuse."],
-		"hateYes": ["A nice suggestion."],
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
 		
 		"afterPeace": "",
 		"tradeRequest": "",
@@ -190,9 +190,9 @@
 
 		"outerColor": [230,160,60],
 		"innerColor": [170,10,10],
-		"uniqueName": "Humanism",
-		"uniques": ["Comment [All cities gain bonus [Production] equal to 10% of that cities [Science]]","Gain a free [Grammar School] [in all cities]",
-					"Comment [Based on the 'Matt's Civs: Scotland)' mod, made by mattwho]"],
+		"uniqueName": "Grammar Schools",
+		"uniques": ["[+2 Production] from [Science] tiles [in all cities]","[+1 Production] per [2] population [in all cities] <in cities with at least [5] [Specialists]> <hidden from users>",
+			"Comment [+1 [Production] per 2 population in all cities with atleast 5 Specialists]", "Comment [Based on the 'Matt's Civs: Scotland)' mod, made by mattwho]"],
 		"cities": ["Edinburgh","Glasgow","Aberdeen","Inverness","Sterling","Dumfries","Dundee","Scone","Selkirk","Cumbernauld",
 			"Saint Andrews","Berwick-upon-Tweed","Forres","Roxburgh","Haddington","Ayr","Cullen","Dumbarton","Wigtown","Perth",
 			"Cupar","Clackmannan","Linlithgow","Jedburgh"]
@@ -206,11 +206,6 @@
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "This Civ was brought to you by Izica.",
-		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
 		
 		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
 		"attacked": "You have betrayed the trust of the Scythians and now you will pay!",
@@ -246,7 +241,7 @@
 
 	{
 		"name": "Swiss Confederacy",
-		"leaderName": "",
+		"leaderName": "Heinrich Bullinger",
 		"adjective": ["Swiss"],
 		"startBias": ["Mountain","Tundra"],
 		"preferredVictoryType": "Scientific",
@@ -259,20 +254,15 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"declaringWar": "e",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
-		
-		"neutralHello": "I hear you.",
-		"neutralLetsHearIt": ["Go on."],
-		"neutralNo": ["I refuse."],
-		"neutralYes": ["Very good."],
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
 
-		"hateHello": "What can you do for me?",
-		"hateLetsHearIt": ["Go on."],
-		"hateNo": [,"You are worthless"],
-		"hateYes": ["Maybe just this once..."],
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
 		
 		"afterPeace": "This will do.",
 		"tradeRequest": "",
@@ -306,7 +296,7 @@
 		"defeated": "...Consummatum est.",
 		"introduction": "I am Jose Rizal, poet, painter, revolutionary.",
 		
-		"neutralHello": "Greetings, friend.",
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on."],
 		"neutralNo": ["We say no because we must."],
 		"neutralYes": ["A beautiful proposition."],
@@ -341,9 +331,9 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "This Civ was brought to you by mattwho.",
 		
-		"declaringWar": "!!!",
-		"attacked": "!!!",
-		"defeated": "-_-",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
 		"introduction": "",
 		
 		"neutralHello": "",
@@ -352,9 +342,9 @@
 		"neutralYes": [""],
 
 		"hateHello": "",
-		"hateLetsHearIt": [],
+		"hateLetsHearIt": [""],
 		"hateNo": [""],
-		"hateYes": [],
+		"hateYes": [""],
 		
 		"afterPeace": "",
 		"tradeRequest": "",
@@ -379,9 +369,9 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "This Civ was brought to you by Goggle.",
 		
-		"declaringWar": "!!!",
-		"attacked": "!!!",
-		"defeated": "-_-",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
 		"introduction": "",
 		
 		"neutralHello": "",
@@ -389,20 +379,20 @@
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": [""],
-		"hateLetsHearIt": [],
+		"hateHello": "",
+		"hateLetsHearIt": [""],
 		"hateNo": [""],
-		"hateYes": [],
+		"hateYes": [""],
 		
 		"afterPeace": "",
 		"tradeRequest": "",
 
 		"spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"],
 
-		"outerColor": [150,140,50],
-		"innerColor": [200,90,90],
+		"outerColor": [186, 180, 121],
+		"innerColor": [135, 64, 64],
 		"uniqueName": "Gassire's Lute",
-		"uniques": ["[+1 Happiness] from each Trade Route"
+		"uniques": ["[+2 Happiness, +1 Culture] from each Trade Route"
 		,"Comment [Based on the 'Goggle's Wagadu' mod, made by Goggle]"],
 		"cities": ["Koumbi Saleh","Aoudaghost","Oualata","Tichitt","Nema","Galam","Dia","Sosso","Diara","Goumbou"]
 	},

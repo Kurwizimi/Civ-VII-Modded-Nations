@@ -65,7 +65,7 @@
 		"uniqueTo": "Scotland",
 		"uniques": [
             "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
-			"Can be purchased with [Faith] [in all cities]",
+			"Can be purchased with [Faith] [in all cities] <after founding a religion>",
 			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]",
 			"[-1] Sight", "Unbuildable", "Religious Unit"],
 		"movement": 4,
@@ -119,7 +119,7 @@
 
 	{
 		"name": "Trans-Saharan Merchant",
-		"replaces": "Rifleman",
+		"replaces": "Great Merchant",
 		"uniqueTo": "Wagadu",
 		"unitType": "Civilian",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",

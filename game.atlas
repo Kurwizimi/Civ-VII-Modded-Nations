@@ -1,47 +1,215 @@
 
 game.png
-size: 1024, 128
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Agora
+  rotate: false
+  xy: 222, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fürstabtei
+  rotate: false
+  xy: 712, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 BuildingIcons/Intramuros
   rotate: false
-  xy: 114, 4
+  xy: 1006, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Royal Burghs
+  rotate: false
+  xy: 1496, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Seoktap
+  rotate: false
+  xy: 1790, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Stiftsarchiv
+  rotate: false
+  xy: 1888, 112
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Takht
   rotate: false
-  xy: 408, 4
+  xy: 222, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Liberties
+  rotate: false
+  xy: 320, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yamanote
+  rotate: false
+  xy: 712, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yiri Senuman
+  rotate: false
+  xy: 810, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Royal Kurgan
+  rotate: false
+  xy: 1594, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Edo Japan
+  rotate: false
+  xy: 614, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Goryeo
+  rotate: false
+  xy: 810, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Ireland
+  rotate: false
+  xy: 1104, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Macedonia
+  rotate: false
+  xy: 1398, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Scotland
+  rotate: false
+  xy: 1692, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Scythia
+  rotate: false
+  xy: 4, 112
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Swiss Confederacy
+  rotate: false
+  xy: 114, 4
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/The Philippines
   rotate: false
-  xy: 4, 4
+  xy: 4, 14
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/The Sikh Empire
   rotate: false
-  xy: 506, 4
+  xy: 418, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Wagadu
+  rotate: false
+  xy: 614, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Ambassador
+  rotate: false
+  xy: 320, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Argyraspides
+  rotate: false
+  xy: 418, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Byeolmuban
+  rotate: false
+  xy: 516, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Edo Samurai
+  rotate: false
+  xy: 114, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Humanist
+  rotate: false
+  xy: 908, 112
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Jatha
   rotate: false
-  xy: 212, 4
+  xy: 1202, 112
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Katipunero
   rotate: false
-  xy: 310, 4
+  xy: 1300, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Saka Rider
+  rotate: false
+  xy: 908, 15
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+UnitIcons/Trans-Saharan Merchant
+  rotate: false
+  xy: 516, 14
   size: 90, 90
   orig: 90, 90
   offset: 0, 0

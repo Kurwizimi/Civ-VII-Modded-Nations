@@ -146,16 +146,9 @@
         "requiredTech": "Banking"
     },
 	{
-        "name": "Grammar School",
-        "cost": 1,
-        "hurryCostModifier": 1966,
-        "uniques": ["[+1 Production] per every [10] [Science] <in this city>", "Only available <for [Scotland] Civilizations>"],
-    },
-
-	{
 		"name": "Stiftsarchiv",
 		"replaces": "Library",
-		"uniqueTo": "Swiss Confederation",
+		"uniqueTo": "Swiss Confederacy",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"science": 1,
@@ -163,9 +156,9 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Temple",
+		"name": "Fürstabtei",
 		"replaces": "Temple",
-		"uniqueTo": "Swiss Confederation",
+		"uniqueTo": "Swiss Confederacy",
 		"faith": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
@@ -210,6 +203,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
+		"gold": 2,
 		"uniques": ["[+1 Happiness, +1 Gold] from each Trade Route"]
 	},
 
