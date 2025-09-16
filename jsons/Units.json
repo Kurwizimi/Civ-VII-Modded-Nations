@@ -1,5 +1,55 @@
 [
 	{
+		"name": "Chang Suek",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Ayutthaya",
+		"movement": 4,
+		"strength": 23,
+		"cost": 130,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["[Chang Suek] ability"],
+		"attackSound": "horse"
+	},
+
+	{
+		"name": "Kludda Lugiae",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Boii",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"promotions": ["[Kludda Lugiae] ability"],
+		"attackSound": "metalhit"
+	},
+
+	{
+		"name": "Ambouii",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Boii",
+		"movement": 2,
+		"strength": 5,
+		"ranged strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["[+1] Sight",
+			"May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	
+	{
 		"name": "Edo Samurai",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
@@ -13,6 +63,21 @@
 		"requiredResource": "Iron",
 		"promotions": ["[Edo Samurai] ability"],
 		"attackSound": "metalhit"
+	},
+
+	{
+		"name": "Highlander Regiment",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "English Empire",
+		"movement": 2,
+		"strength": 27,
+		"cost": 170,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["[Highlander Regiment] ability"],
+		"attackSound": "shot"
 	},
 
 	{
@@ -31,6 +96,23 @@
 		"promotions": ["[Byeolmuban] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+
+	{
+		"name": "Golden Chariot",
+		"unitType": "Archery",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Hittites",
+		"movement": 4,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"promotions": ["[Golden Chariot] ability"],
+		"attackSound": "arrow"
 	},
 	
 	{

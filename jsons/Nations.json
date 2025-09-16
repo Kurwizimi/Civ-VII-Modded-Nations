@@ -1,5 +1,87 @@
 [
 	{
+		"name": "Ayutthaya",
+		"leaderName": "Ekathotsarot",
+		"adjective": ["Kurung Tai"],
+		"startBias": ["River", "Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Hellpanda.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"],
+		
+		"outerColor": [100,10,10],
+		"innerColor": [255,218,36],
+		"uniqueName": "Chatusadom",
+		"uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[+1 Production] from [Plantation] tiles [in all cities]","[+1 Food from [Fishing Boat] tiles [in all cities]",
+		,"Comment [Based on the 'Hellpanda's Ayutthaya (Exploration)' mod, made by Hellpanda]"],
+		"cities": ["Ayutthaya","Phitsanulok","Lopburi","Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Taphan Hin","Uthai Thani","Surin","Ratchasima","Loci",
+			"Ban Phai","Khon Kaen"],
+	},
+
+	{
+		"name": "Boii",
+		"leaderName": "Tokugawa",
+		"adjective": ["Boii"],
+		"startBias": ["Grassland","Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Decimus.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		 "spyNames": ["Crìsdean", "Siobhán", "Seamus", "Ffion", "Pádraig", "Deirdre", "Mr. Quinn", "Éadaoin", "Alwyn", "Col Ceathar"],
+		
+		"outerColor": [30,160,104],
+		"innerColor": [110,90,15],
+		"uniqueName": "Cisalpine Gaul",
+		"uniques": ["Free [Settler] appears <upon constructing [Barracks]>", "[+2 Science, +2 Culture] [in capital]"
+		,"Comment [Based on the 'Decimus's Celtic Boii (Antiquity)' mod"],
+		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
+			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
+			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
+			"St. Austell","Saint-Malo","Onchan","Dundee","Londonderry","Llanfairpwllgwyngyll","Falmouth","Lorient"],
+	},
+	
+	{
 		"name": "Edo Japan",
 		"leaderName": "Tokugawa",
 		"adjective": ["Edo"],
@@ -41,6 +123,46 @@
 	},
 
 	{
+		"name": "Kingdom of England",
+		"leaderName": "James I",
+		"adjective": ["English"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Tman.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Babington", "Bond", "Andrew", "Scott", "Anne"]
+		
+		"outerColor": [160,40,40],
+		"innerColor": [30,75,166],
+		"uniqueName": "Brave New World",
+		"uniques": [ "[+2] Sight <for [Water] units>","[+50]% Production when constructing [Water] units [in all cities]", "[Gold] cost of purchasing [Civilian] units [-25]%"
+		,"Comment [Based on the 'England - Exploration Age Civ (1590-1750) by Tman']"],
+		"cities": ["London","Norwich","York","Plymouth","Bermuda","Jamestown","Newcastle","Henrico","Barbados","Charles Towne",
+			"St Mary's Towne","Willianstown","Boston","Annapolis","Bristol","Newfoundland","Philadelphia","New London","Worcester","Providence",
+			"Ipswich","Wilmington","New York","Trenton","Lancaster","Exeter","Kings Towne","St Helena","Triconderoga","Hudson Bay Colony","Plymouth Colony"]
+	},
+
+	{
 		"name": "Goryeo",
 		"leaderName": "Taejo",
 		"adjective": ["Korean"],
@@ -78,6 +200,46 @@
 		"cities": ["Gaegyeong","Kaesongdo","Songdo","Ganghwa","Wangseong","Kaesong","Balhae","Georan","Yeojin","Sangseo",
 			"Kaesongbu","Bukgye","Seonaedo","Ryeongju","Gyojudo","Namgyeong","Gwangjumok","Chungjumok","Tamna","Donggyeong",
 			"Jeonjumok","Rajumok"]
+	},
+
+	{
+		"name": "Hittite",
+		"leaderName": "",
+		"adjective": ["Hittite"],
+		"startBias": ["Hill", "Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Goggle.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Ibrahim","Bayezid","Sokollu","Mahmut","Uveys","Roxelana","Safiye","Hafsa","Kosem","Nurbanu"],
+		
+		"outerColor": [200,145,105],
+		"innerColor": [105,40,0],
+		"uniqueName": "Arinnitta's Embrace",
+		"uniques": ["[+1 Production, Gold] from [improved] tiles [in all cities] <for every adjacent [resource]>"
+		,"Comment [Based on the 'Goggle's Hittite (Antiquity)' mod]"],
+		"cities": [ "Hattusa","Nesa","Kussara","Tuwanuwa","Hupisna","Purushanda","Samuha","Lusna","Alacohoyuk","Sapinuwa",
+            "Tunip","Kadesh","Aleppo","Alalakh","Ullama","Nenassa","Nerik","Landa","Hakpis","Arinna",
+            "Hanhana","Gaziura","Sarissa","Kummani","Catalhoyuk","Ankuwa","Karhoyuk","Alisarhoyuk","Zippalanda"]
 	},
 	
 	{

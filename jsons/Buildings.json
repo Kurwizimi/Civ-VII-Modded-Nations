@@ -11,6 +11,20 @@
 		"requiredTech": "Chivalry",
 		"uniques": ["Free [Edo Samurai] appears", "[+1 Food] from [resource] tiles [in this city]", "Destroyed when the city is captured"]
 	},
+
+	{
+		"name": "Public Theatre",
+		"replaces": "Theatre",
+		"uniqueTo": "English Empire",
+		"happiness": 3,
+		"culture": 1,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"uniques": ["Automatically built in all cities where it is buildable"],
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+	
 	{
 		"name": "Seoktap",
 		"replaces": "Temple",
@@ -20,6 +34,17 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["[+1 Culture] from [Coast] tiles [in this city]", "[+2 Culture] from [Lakes] tiles [in this city]"]
+	},
+
+	{
+		"name": "Kuntarra",
+		"replaces": "Forge",
+		"uniqueTo": "Hittites",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+10] [Gold]", "[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
 	},
   
 	{	
