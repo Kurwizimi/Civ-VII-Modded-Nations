@@ -42,7 +42,7 @@
 
 	{
 		"name": "Boii",
-		"leaderName": "Tokugawa",
+		"leaderName": "Critasirus",
 		"adjective": ["Boii"],
 		"startBias": ["Grassland","Forest"],
 		"preferredVictoryType": "Domination",
@@ -203,8 +203,8 @@
 	},
 
 	{
-		"name": "Hittite",
-		"leaderName": "",
+		"name": "Hittites",
+		"leaderName": "Šuppiluliuma I",
 		"adjective": ["Hittite"],
 		"startBias": ["Hill", "Plains"],
 		"preferredVictoryType": "Domination",
