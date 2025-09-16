@@ -1,13 +1,34 @@
 [
+
+         {
+        "name": "[Chang Suek] ability",
+        "uniques": ["[+15]% Strength <vs [Mounted] units>"]
+    },
+
+         {
+        "name": "[Kludda Lugiae] ability",
+        "uniques": ["[+100]% to Flank Attack bonuses"]
+    },
+         
          {
         "name": "[Edo Samurai] ability",
         "uniques": ["[+15]% Strength <when below [75] HP>"]
     },
+
+         {
+	"name": "[Highlander Regiment] ability",
+	"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>", "[+1] Sight"]
+     },
          
          {
         "name": "[Byeolmuban] ability",
         "uniques": ["[+40]% Strength <vs [Mounted] units>"]
     },
+
+         {
+	"name": "[Golden Chariot] ability",
+	"uniques": ["Earn [75]% of killed [All] unit's [Strength] as [Gold]"]
+     },
          
         {
         "name": "[Katipunero] ability",
