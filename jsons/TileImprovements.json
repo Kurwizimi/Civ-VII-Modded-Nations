@@ -1,4 +1,15 @@
 [
+   {
+        "name": "Floating Market",
+        "uniqueTo": "Ayutthaya",
+        "terrainsCanBeBuiltOn": ["River"],
+        "gold": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Sailing",
+        "uniques": ["[+1 Food] for each adjacent [resource]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "R"
+    },
+  
   {
         "name": "Royal Kurgan",
         "uniqueTo": "Scythia",
