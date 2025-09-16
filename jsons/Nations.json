@@ -235,7 +235,7 @@
 		"outerColor": [200,145,105],
 		"innerColor": [105,40,0],
 		"uniqueName": "Arinnitta's Embrace",
-		"uniques": ["[+1 Production, Gold] from [improved] tiles [in all cities] <for every adjacent [resource]>"
+		"uniques": ["[+1 Production, +1 Gold] from [improved] tiles [in all cities] <for every adjacent [resource]>"
 		,"Comment [Based on the 'Goggle's Hittite (Antiquity)' mod]"],
 		"cities": [ "Hattusa","Nesa","Kussara","Tuwanuwa","Hupisna","Purushanda","Samuha","Lusna","Alacohoyuk","Sapinuwa",
             "Tunip","Kadesh","Aleppo","Alalakh","Ullama","Nenassa","Nerik","Landa","Hakpis","Arinna",
