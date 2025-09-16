@@ -32,7 +32,7 @@
 		"outerColor": [100,10,10],
 		"innerColor": [255,218,36],
 		"uniqueName": "Chatusadom",
-		"uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[+1 Production] from [Plantation] tiles [in all cities]","[+1 Food from [Fishing Boat] tiles [in all cities]",
+		"uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[+1 Production] from [Plantation] tiles [in all cities]","[+1 Food from [Fishing Boat] tiles [in all cities]"
 		,"Comment [Based on the 'Hellpanda's Ayutthaya (Exploration)' mod, made by Hellpanda]"],
 		"cities": ["Ayutthaya","Phitsanulok","Lopburi","Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
