@@ -43,7 +43,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+10] [Gold]", "[+15]% Production when constructing [Land] units [in this city]",
+		"uniques": ["[+10]% [Gold]", "[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
 	},
   
