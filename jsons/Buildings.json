@@ -15,7 +15,7 @@
 	{
 		"name": "Public Theatre",
 		"replaces": "Theatre",
-		"uniqueTo": "English Empire",
+		"uniqueTo": "Kingdom of England",
 		"happiness": 3,
 		"culture": 1,
 		"hurryCostModifier": 10,
@@ -43,7 +43,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+10] [Gold]", "[+15]% Production when constructing [Land] units [in this city]",
+		"uniques": ["[+10]% [Gold]", "[+15]% Production when constructing [Land] units [in this city]","Comment [Does not require nearby improved [Iron]]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
 	},
   
