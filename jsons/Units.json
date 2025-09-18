@@ -159,14 +159,14 @@
 	},
 
 	{
-		"name": "Settler",
+		"name": "Pilgrim",
 		"replaces": "Settler",
 		"uniqueTo": "Outremer",
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Prevents spreading of religion to the city it is next to","May enter foreign tiles without open borders"],
+			"Requires at least [2] population","May enter foreign tiles without open borders","Comment [This Unit is gained for free upon entering a Golden Age]"],
 		"hurryCostModifier": 20
 	},
 	
