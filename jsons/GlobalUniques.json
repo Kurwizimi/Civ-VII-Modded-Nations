@@ -1,7 +1,7 @@
 {
   "name": "Global uniques",
   "uniques":  [
-    "[+1 Gold] from every [Land] <when stacked with a [Land] unit> <for [Outremer] Civilizations>",
+    "[+1 Gold] from every [Land] <upon turn end> <when stacked with a [Land] unit> <for [Outremer] Civilizations>",
 
 
 
