@@ -192,7 +192,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 5},
-		"uniques": ["[+10]% Production when constructing [Military] units [in this city]", "Comment [Unlocked at [Mining] vs. [Metal Casting]]"],
+		"uniques": ["[+10]% Production when constructing [Military] units [in this city]", "Comment [Unlocked at [Mining] vs [Metal Casting]]"],
 		"requiredTech": "Mining"
 	},
 	
