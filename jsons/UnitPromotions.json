@@ -29,6 +29,11 @@
 	"name": "[Golden Chariot] ability",
 	"uniques": ["Earn [75]% of killed [All] unit's [Strength] as [Gold]"]
      },
+
+	{
+	"name": "[Lembus] ability",
+	"uniques": ["[This unit] gains [1] movement <upon discovering a [Rare feature] tile> <with [50]% chance>"]
+     },
          
         {
         "name": "[Katipunero] ability",
