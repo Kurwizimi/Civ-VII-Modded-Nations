@@ -395,7 +395,7 @@
 		"outerColor": [220,205,180],
 		"innerColor": [218,165,32],
 		"uniqueName": "Holy Land",
-		"uniques": ["Comment [+1 [Gold] on all improved tiles with a Land unit on them]","[+2 Faith] from every [Wonder]"
+		"uniques": ["[+2 Gold] from [Farm] tiles [in all cities] <when at war>","[+2 Faith] from every [Wonder]", "[-2 Faith] from every [Palace] <hidden from users>"
 			, "Comment [Based on the 'TCS Outremer (Exploration)' mod]"],
 		"cities": ["Jerusalem","Antioch","Edessa","Tripoli","Acre","Turbessel","Ascalon","Tiberias","Apamea","Arsuf",
 			"Caesarea","Haifa","Ma'arrat al-Nu'man","Zardana","Behesm","Gibelet","Tortosa","Latakia","Cryrrus","Jarabulus",
