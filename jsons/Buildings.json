@@ -161,6 +161,18 @@
 	},
 
 	{
+		"name": "Commandery",
+		"replaces": "Castle",
+		"uniqueTo": "Outremer",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Creates a [Karak] improvement on a specific tile", "Destroyed when the city is captured"]
+	},
+
+	{
         "name": "Royal Burghs",
 		"replaces": "Constabulary",
 		"uniqueTo": "Scotland",
@@ -170,6 +182,20 @@
         "uniques": ["[+1 Science] from all [Production] buildings <in this city>", "[-25]% enemy spy effectiveness [in this city]"],
         "requiredTech": "Banking"
     },
+
+	{
+		"name": "Abul-Urudu",
+		"replaces": "Workshop",
+		"uniqueTo": "Sumeria",
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 5},
+		"uniques": ["[+10]% Production when constructing [Military] units [in this city]", "Comment [Unlocked at [Mining] vs. [Metal Casting]]"],
+		"requiredTech": "Mining"
+	},
+	
 	{
 		"name": "Stiftsarchiv",
 		"replaces": "Library",
