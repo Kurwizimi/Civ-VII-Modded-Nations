@@ -40,7 +40,7 @@
 
   {
         "name": "Ziggurat",
-        "uniqueTo": "Sumeria",
+        "uniqueTo": "Sumer",
         "terrainsCanBeBuiltOn": ["Land"],
         "faith": 1,
         "turnsToBuild": 7,
