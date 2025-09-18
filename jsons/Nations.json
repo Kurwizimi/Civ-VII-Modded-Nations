@@ -241,6 +241,47 @@
             "Tunip","Kadesh","Aleppo","Alalakh","Ullama","Nenassa","Nerik","Landa","Hakpis","Arinna",
             "Hanhana","Gaziura","Sarissa","Kummani","Catalhoyuk","Ankuwa","Karhoyuk","Alisarhoyuk","Zippalanda"]
 	},
+
+	{
+		"name": "Illyria",
+		"leaderName": "",
+		"adjective": ["Illyrian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Rogue.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Agron", "Diocletian", "Irenaeus", "Jovian", "Sabianianus", "Valentinian", "Caeria", "Bircenna", "Bato", "Aurelian"],
+		
+		"outerColor": [179,54,179],
+		"innerColor": [255,251,0],
+		"uniqueName": "Masters of the Adriatic",
+		"uniques": ["Gain a free [Walls] [in all coastal cities]","[-1] Movement <for [Settler] units> <in [non-[Coastal]] tiles>","[+3] Movement <for [Settler] units> <in [Coastal] tiles>"
+		,"Comment [Based on the 'Rogue's Civarium - Illyria (Antiquity)' mod]"],
+		"cities": ["Scodra","Dyrrhachium","Epidamnus","Appolonia","Lissus","Byllis","Narona","Rhizon","Salonica","Medun",
+			"Kinna","Arduba","Creonion","Oneum","Pituntium","Ad Quintum","Trogir","Scupi",
+			"Senj","Lumbarda","Perast","Dimale","Vendenis","Bassania","Damation","Sesarethus","Rhizon","Promona",
+			"Albanopolis","Gajtan"],
+	},
 	
 	{
 		"name": "Ireland",
