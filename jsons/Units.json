@@ -115,6 +115,22 @@
 		"promotions": ["[Golden Chariot] ability"],
 		"attackSound": "arrow"
 	},
+
+	{
+		"name": "Lembus",
+		"unitType": "Melee Water",
+		"replaces": "Trireme",
+		"uniqueTo": "Illyria",
+		"movement": 4,
+		"strength": 10,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"promotions": ["[Lembus] ability"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
 	
 	{
 		"name": "Ambassador",
@@ -141,6 +157,19 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+
+	{
+		"name": "Settler",
+		"replaces": "Settler",
+		"uniqueTo": "Outremer",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Prevents spreading of religion to the city it is next to","May enter foreign tiles without open borders"],
+		"hurryCostModifier": 20
+	},
+	
 	{
 		"name": "Humanist",
 		"unitType": "Civilian",
