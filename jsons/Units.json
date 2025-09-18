@@ -230,6 +230,30 @@
 	},
 
 	{
+		"name": "Datu",
+		"unitType": "Civilian",
+		"replaces": "Great General",
+		"uniqueTo": "Tondo",
+		"uniques": [
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Ancient era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Classical era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Medieval era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Renaissance era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Industrial era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Modern era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Atomic era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Information era]> <hidden from users>",
+			"Gain [15] [Gold] <when stacked with a [{non-[Wounded]} {Land}] unit> <upon turn end> <during the [Future era]> <hidden from users>",
+			"Comment [Gain +15 [Gold] when stacked with a non- wounded Land unit, increasing per era]",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+
+	{
 		"name": "Trans-Saharan Merchant",
 		"replaces": "Great Merchant",
 		"uniqueTo": "Wagadu",
