@@ -676,8 +676,8 @@
 
 		"spyNames": ["Ranjit","Bedi","Arjan","Banda","Jassa","Nakkai","Sebhat","Tewabech","Wolde","Zewditu"],
 
-		"outerColor": [220,105,0],
-		"innerColor": [50,20,0],
+		"outerColor": [63,55,100],
+		"innerColor": [180,30,30],
 		"uniqueName": "Sambayanang Taga Ilog",
 		"uniques": ["[+3 Production, +3 Science, +3 Gold, +1 Culture] [non-[in capital]] <hidden from users>", "Comment [All cities gain [Palace] yeilds]"
 		,"Comment [Based on the 'Tondo (actually Tagalogs) - Antiquity' mod]"],
