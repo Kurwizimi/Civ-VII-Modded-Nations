@@ -186,7 +186,7 @@
 	{
 		"name": "Abul-Urudu",
 		"replaces": "Workshop",
-		"uniqueTo": "Sumeria",
+		"uniqueTo": "Sumer",
 		"maintenance": 2,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
