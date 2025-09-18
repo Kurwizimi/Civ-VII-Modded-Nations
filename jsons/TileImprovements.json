@@ -45,7 +45,7 @@
         "faith": 1,
         "turnsToBuild": 7,
         "techRequired": "Calendar",
-        "uniques": ["[+1 Food, +1 Science] for each adjacent [River]", "Must be next to [City center]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food, +1 Science] for each adjacent [River]", "Must be next to [River]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "R"
     },
    
