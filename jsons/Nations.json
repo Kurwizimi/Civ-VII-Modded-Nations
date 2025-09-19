@@ -75,10 +75,9 @@
 		"uniqueName": "Cisalpine Gaul",
 		"uniques": ["Free [Settler] appears <upon constructing [Barracks]>", "[+2 Science, +2 Culture] [in capital]"
 		,"Comment [Based on the 'Decimus's Celtic Boii (Antiquity)' mod"],
-		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
-			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
-			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
-			"St. Austell","Saint-Malo","Onchan","Dundee","Londonderry","Llanfairpwllgwyngyll","Falmouth","Lorient"],
+		"cities": ["Bononia","Gorgobina","Mutina","Noreia","Bibracte","Alesia","Telamon","Zavist","Čáslav-Budčeves",
+			"Němčice","Strážovice","Chotoviny","Casurgis","Istros","Devin","La Tene","Tisza","Sava","Po Valley",
+			"Bratislava","Bohemia"],
 	},
 	
 	{
