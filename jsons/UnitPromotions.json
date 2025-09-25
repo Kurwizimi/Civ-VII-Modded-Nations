@@ -22,12 +22,17 @@
          
          {
         "name": "[Byeolmuban] ability",
-        "uniques": ["[+40]% Strength <vs [Mounted] units>"]
+        "uniques": ["[+20]% Strength <vs [Mounted] units>"]
     },
 
          {
 	"name": "[Golden Chariot] ability",
 	"uniques": ["Earn [75]% of killed [All] unit's [Strength] as [Gold]"]
+     },
+
+	{
+	"name": "[Lembus] ability",
+	"uniques": ["[This Unit] gains [1] movement <upon discovering a [Rare feature] tile>"]
      },
          
         {

@@ -240,6 +240,47 @@
             "Tunip","Kadesh","Aleppo","Alalakh","Ullama","Nenassa","Nerik","Landa","Hakpis","Arinna",
             "Hanhana","Gaziura","Sarissa","Kummani","Catalhoyuk","Ankuwa","Karhoyuk","Alisarhoyuk","Zippalanda"]
 	},
+
+	{
+		"name": "Illyria",
+		"leaderName": "",
+		"adjective": ["Illyrian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Rogue.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Agron", "Diocletian", "Irenaeus", "Jovian", "Sabianianus", "Valentinian", "Caeria", "Bircenna", "Bato", "Aurelian"],
+		
+		"outerColor": [179,54,179],
+		"innerColor": [255,251,0],
+		"uniqueName": "Masters of the Adriatic",
+		"uniques": ["Gain a free [Walls] [in all coastal cities]","[-2] Movement <for [Settler] units> <in [non-[Coastal]] tiles>","[+3] Movement <for [Settler] units> <in [Coastal] tiles>"
+		,"Comment [Based on the 'Rogue's Civarium - Illyria (Antiquity)' mod]"],
+		"cities": ["Scodra","Dyrrhachium","Epidamnus","Appolonia","Lissus","Byllis","Narona","Rhizon","Salonica","Medun",
+			"Kinna","Arduba","Creonion","Oneum","Pituntium","Ad Quintum","Trogir","Scupi",
+			"Senj","Lumbarda","Perast","Dimale","Vendenis","Bassania","Damation","Sesarethus","Rhizon","Promona",
+			"Albanopolis","Gajtan"],
+	},
 	
 	{
 		"name": "Ireland",
@@ -319,6 +360,47 @@
 			"Alexandria by the Latmus","Alexandretta","Alexandria in Aria","Alexandria Prophthasia","Alexandria in Arachosia","Aiani","Alexandria in the Caucasus","Alexandria Eschate","Akanthos","Alexandria Oxiana",
 			"Heraclea Lyncestis","Alexandria Bucephala","Alexandria Nicaea","Batman"]
 	},
+
+	{
+		"name": "Outremer",
+		"leaderName": "Amalric",
+		"adjective": ["Frank"],
+		"startBias": ["Coast","Oasis"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by thecrazyscot.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Baldwin","Isabella","Maria","Guy","Stephen","Agnes","Fulk","Melisende","Sybilla","Raymond"],
+
+		"outerColor": [220,205,180],
+		"innerColor": [218,165,32],
+		"uniqueName": "Holy Land",
+		"uniques": ["[+2 Gold] from [Farm] tiles [in all cities] <when at war>","[+2 Faith] from every [Wonder]", "[-2 Faith] from every [Palace] <hidden from users>","Free [Pilgrim] appears <upon entering a Golden Age> <hidden from users>"
+			, "Comment [Based on the 'TCS Outremer (Exploration)' mod]"],
+		"cities": ["Jerusalem","Antioch","Edessa","Tripoli","Acre","Turbessel","Ascalon","Tiberias","Apamea","Arsuf",
+			"Caesarea","Haifa","Ma'arrat al-Nu'man","Zardana","Behesm","Gibelet","Tortosa","Latakia","Cryrrus","Jarabulus",
+			"Behsem","Famagusta","Beirut","Samosata"]
+	},
+	
 	{
 		"name": "Scotland",
 		"leaderName": "Adam Smith",
@@ -398,6 +480,48 @@
 		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Kostromskaya","Myriv","Solokha","Maikop",
 			  "Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya",
 			  "Ogüz","Theodosia"]
+	},
+
+	
+	{
+		"name": "Sumer",
+		"leaderName": "Gilgamesh",
+		"adjective": ["Sumer"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Rouge.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "This will do.",
+		"tradeRequest": "",
+
+		"spyNames": ["Alad", "Anusan", "Izila", "Ludari", "Gemekala", "Meania", "Ninna", "Sisig", "Sherzi", "Dari", "Aradegi"]
+		
+		"outerColor": [32, 100, 133],
+		"innerColor": [210, 140, 15],
+		
+		"uniqueName": "Cradle of Civilization",
+		"uniques": ["Starts with [Writing]","[+1 Food] from [{improved} {River}] tiles [in all cities]",
+			"Comment [Based on the 'Rogue's Civarium - Sumer (Antiquity)' mod]"],
+		
+		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab",
+			  "Isin","Larak","Abu Salabikh","Akshak","Umma","Larsa","Hamazi","Girsu","Nina","Kuara"]
 	},
 
 	{
@@ -510,7 +634,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"spyNames": ["Ranjit","Bedi","Arjan","Banda","Jassa","Nakkai","Sebhat","Tewabech","Wolde","Zewditu"],
+		"spyNames": ["Ranjit","Bedi","Arjan","Banda","Jassa","Nakkai","Kaur","Arjan","Bahadur","Singh"],
 
 		"outerColor": [220,105,0],
 		"innerColor": [50,20,0],
@@ -520,6 +644,47 @@
 		"cities": ["Lahore","Gujranwala","Amritsar","Multan","Srinagar","Jammu","Attock","Kasur","Sialkot","Peshawar",
 			"Skardu","Chhachhrauli","Kaithal","Patiala","Sangrur","Thanesar","Ludhiana","Ambala","Firozpur","Ferozeshah"]
 	},
+
+	{
+		"name": "Tondo",
+		"leaderName": "",
+		"adjective": ["Tagalog"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Archanist.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Ranjit","Bedi","Arjan","Banda","Jassa","Nakkai","Sebhat","Tewabech","Wolde","Zewditu"],
+
+		"outerColor": [63,55,100],
+		"innerColor": [180,30,30],
+		"uniqueName": "Sambayanang Taga Ilog",
+		"uniques": ["[+3 Production, +3 Science, +3 Gold, +1 Culture] [non-[in capital]] <hidden from users>", "Comment [All cities gain [Palace] yeilds]"
+		,"Comment [Based on the 'Tondo (actually Tagalogs) - Antiquity' mod]"],
+		"cities": ["Manila","Quezon City","Davao City","Calcoocan","Taguig","Zamboanga City","Cebu City","Antipolo","Pasig","Cagayan de Oro",
+			"Valenzuela","Dasmariñas","Parañaque","General Santos","Bacoor","San Jose del Monte","Las Piñas","Bacolod","Muntinlupa","Calamba",
+			"Lapu-Lapu City","Imus","Angeles City","Iloilo City"]
+	},
+	
 	{
 		"name": "Wagadu",
 		"leaderName": "Ghana Dinga",
