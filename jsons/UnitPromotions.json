@@ -32,7 +32,7 @@
 
 	{
 	"name": "[Lembus] ability",
-	"uniques": ["[This Unit] gains [1] movement <upon discovering a [Rare feature] tile> <with [50]% chance>"]
+	"uniques": ["[This Unit] gains [1] movement <upon discovering a [Rare feature] tile>"]
      },
          
         {
