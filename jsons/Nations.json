@@ -275,7 +275,7 @@
 		"outerColor": [179,54,179],
 		"innerColor": [255,251,0],
 		"uniqueName": "Masters of the Adriatic",
-		"uniques": ["Gain a free [Walls] [in all coastal cities]","[-1] Movement <for [Settler] units> <in [non-[Coastal]] tiles>","[+3] Movement <for [Settler] units> <in [Coastal] tiles>"
+		"uniques": ["Gain a free [Walls] [in all coastal cities]","[-2] Movement <for [Settler] units> <in [non-[Coastal]] tiles>","[+3] Movement <for [Settler] units> <in [Coastal] tiles>"
 		,"Comment [Based on the 'Rogue's Civarium - Illyria (Antiquity)' mod]"],
 		"cities": ["Scodra","Dyrrhachium","Epidamnus","Appolonia","Lissus","Byllis","Narona","Rhizon","Salonica","Medun",
 			"Kinna","Arduba","Creonion","Oneum","Pituntium","Ad Quintum","Trogir","Scupi",
