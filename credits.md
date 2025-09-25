@@ -58,3 +58,4 @@ Improvements
 - Grandina - Fort by iconcheese from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
 - Ziggurat - ziggurat of ur by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/ziggurat-of-ur/" target="_blank" title="ziggurat of ur Icons">Noun Project</a> (CC BY 3.0)
 - Kurgan - Cairn by Marta Marinho from <a href="https://thenounproject.com/browse/icons/term/cairn/" target="_blank" title="Cairn Icons">Noun Project</a> (CC BY 3.0)
+- Farm by Muhammad Atif from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
