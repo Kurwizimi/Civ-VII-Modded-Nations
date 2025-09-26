@@ -169,7 +169,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["Creates a [Karak] improvement on a specific tile", "Destroyed when the city is captured"]
+		"uniques": ["Creates a [Karak] improvement on a specific tile", "Comment [+2 [Gold] +1 [Food] to all [Farm]s within 2 tiles of a [Karak]]", "Destroyed when the city is captured"]
 	},
 
 	{
