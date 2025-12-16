@@ -401,6 +401,39 @@
 			"Caesarea","Haifa","Ma'arrat al-Nu'man","Zardana","Behesm","Gibelet","Tortosa","Latakia","Cryrrus","Jarabulus",
 			"Behsem","Famagusta","Beirut","Samosata"]
 	},
+
+	{
+		"name": "Qara Qoyunlu",
+		"leaderName": "",
+		"adjective": ["Qoyunlu"],
+		"startBias": ["Hill", "Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Civ'ed.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Ibrahim","Bayezid","Sokollu","Mahmut","Uveys","Roxelana","Safiye","Hafsa","Kosem","Nurbanu"],
+		
+		"outerColor": [200,145,105],
+		"innerColor": [105,40,0],
+		"uniqueName": "Tarâkeme",
+		"uniques": ["Free Social Policy <upon being declared war on by [Major] Civilizations>", "Empire enters a [3]-turn Golden Age <upon conquering a city>"
+		,"Comment [Based on the 'Civ'ed's Qara Qoyunlu' mod]"],
+		"cities": [ "Hattusa","Nesa","Kussara","Tuwanuwa","Hupisna","Purushanda","Samuha","Lusna","Alacohoyuk","Sapinuwa",
+            "Tunip","Kadesh","Aleppo","Alalakh","Ullama","Nenassa","Nerik","Landa","Hakpis","Arinna",
+            "Hanhana","Gaziura","Sarissa","Kummani","Catalhoyuk","Ankuwa","Karhoyuk","Alisarhoyuk","Zippalanda"]
+	},
 	
 	{
 		"name": "Scotland",
