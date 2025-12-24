@@ -260,6 +260,8 @@
 
 	{
 		"name": "Zongmiao",
+		"replaces": "Temple",
+		"uniqueTo": "Zhou",
 		"faith": 2,
 		"food": 2,
 		"culture": 1,
