@@ -428,8 +428,8 @@
 		"innerColor": [105,40,0],
 		"uniqueName": "Tarâkeme",
 		"uniques": ["Empire enters a [3]-turn Golden Age <upon conquering a city>", "Comment [+1 [Culture] from [Pasture] tiles, doubled in Annexed cities]", 
-			"[+1 Culture] from [Pasture] tiles [in all cities] <hidden from users>", "[+1 Culture] from [Pasture] tiles [in annexed cities] <hidden from users>"
-			,"Comment [Based on the 'Civ'ed's Qara Qoyunlu' mod]"],
+			"[+1 Culture] from [Pasture] tiles [in all cities] <hidden from users>", "[+1 Culture] from [Pasture] tiles [in annexed cities] <hidden from users>",
+			"[+1 Culture. +3 Gold] <for every [[Administrator] Units]> <hidden from users>" ,"Comment [Based on the 'Civ'ed's Qara Qoyunlu' mod]"],
 		"cities": [ "Tabriz","Erciş","Mosul","Isfahan","Karaj","Herat","Yazd","Rasht","Arāk",
 			"Qazvim","Qom","Ardabīl","Semnān","Astarābād","Kermanshah","Senneh","Ahvāz","Sanandaj","Būšehr",
 			"Moḥammara","Zāhedān","Bandar 'Abbās","Nishapur"]
