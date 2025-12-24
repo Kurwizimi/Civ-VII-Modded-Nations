@@ -173,6 +173,20 @@
 	},
 
 	{
+		"name": "Eyvān",
+		"replaces": "Opera House",
+		"uniqueTo": "Qara Qoyunlu",
+		"culture": 4,
+		"faith": 2,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Free [Missionary] appears", "Destroyed when the city is captured"]
+	},
+
+	{
         "name": "Royal Burghs",
 		"replaces": "Constabulary",
 		"uniqueTo": "Scotland",
