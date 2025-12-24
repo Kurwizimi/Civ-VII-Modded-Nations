@@ -57,7 +57,7 @@
 		"gold": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Engineering",
-		"uniques": ["[+1 Culture, +1 Gold] <when at war>", "[+1 Culture, +1 Gold] [in Annexed cities]", "Muist be next to [Foreign Land]", "Gives a defensive bonus of [30]%"],
+		"uniques": ["[+1 Culture, +2 Gold] <when at war>", "Must be next to [Foreign Land] <hidden from users>", "Comment [Must be built next to your border]", "Gives a defensive bonus of [30]%"],
 		"shortcutKey": "F"
     },
    
