@@ -329,6 +329,39 @@
       },
     },
 
+   //Qara
+  {
+      "name": "Jahan Shah",
+      "culture": 9,
+      "faith": 8,
+      "food": 8,
+      "gold": 4,
+      "happiness": 5,
+      "production": 6,
+      "science": 2,
+
+      "military": 9,
+      "aggressive": 6,
+      "declareWar": 7,
+      "commerce": 3,
+      "diplomacy": 3,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 4,
+          "Honor": 6,
+          "Commerce": 4,
+          "Patronage": 6,
+          "Piety": 9,
+          "Rationalism": 5,
+          "Freedom": 5,
+          "Autocracy": 6,
+          "Order": 7,
+      },
+    },
+
   //Scotland
   {
       "name": "Adam Smith",
@@ -492,7 +525,41 @@
           "Autocracy": 4,
           "Order": 6,
       },
+  },
+
+   //Tang
+  {
+      "name": "Taizong",
+      "culture": 9,
+      "faith": 3,
+      "food": 7,
+      "gold": 9,
+      "happiness": 2,
+      "production": 6,
+      "science": 2,
+
+      "military": 6,
+      "aggressive": 7,
+      "declareWar": 8,
+      "commerce": 3,
+      "diplomacy": 8,
+      "loyal": 5,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 6,
+          "Honor": 4,
+          "Commerce": 1,
+          "Patronage": 8,
+          "Piety": 3,
+          "Rationalism": 7,
+          "Freedom": 2,
+          "Autocracy": 8,
+          "Order": 7,
+      },
     },
+
     //Sikh
   {
       "name": "Ranjit Singh",
@@ -559,7 +626,7 @@
       },
     },
 
-  //Macedonia
+  //Wagadu
   {
       "name": "Ghana Dinga",
       "culture": 9,
@@ -589,6 +656,39 @@
           "Freedom": 8,
           "Autocracy": 2,
           "Order": 8,
+      },
+    },
+
+   //Zhou
+  {
+      "name": "Wu",
+      "culture": 7,
+      "faith": 6,
+      "food": 8,
+      "gold": 6,
+      "happiness": 2,
+      "production": 5,
+      "science": 2,
+
+      "military": 7,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 4,
+      "loyal": 6,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 3,
+          "Honor": 6,
+          "Commerce": 2,
+          "Patronage": 6,
+          "Piety": 7,
+          "Rationalism": 5,
+          "Freedom": 3,
+          "Autocracy": 9,
+          "Order": 5,
       },
     },
      
