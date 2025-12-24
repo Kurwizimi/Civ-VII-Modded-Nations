@@ -44,7 +44,7 @@
 		"range": 1,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["[+1] Sight","Comment [Has a ranged attack of 1 tile]",
+		"uniques": ["[+1] Sight","Comment [Has a ranged attack]",
 			"May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
@@ -190,7 +190,7 @@
 		"replaces": "Horseman",
 		"uniqueTo": "Scythia",
 		"movement": 6,
-		"strength": 12,
+		"strength": 10,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
