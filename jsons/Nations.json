@@ -626,7 +626,7 @@
 		"outerColor": [196,176,108],
 		"innerColor": [57,60,190],
 		"uniqueName": "Jiedushi",
-		"uniques": ["[+2]% Strength <for [All] Units> <for every [Owned [Great Improvement] Tiles]>",
+		"uniques": ["[+2]% Strength <for [All] units> <for every [Owned [Great Improvement] Tiles]>",
 					"Comment [Based on the 'Exploration Age Civilization: Tang' mod by MapleLeaves]"],
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
