@@ -269,4 +269,21 @@
 		"movement": 6
 	},
 
+	{
+		"name": "Yuanrong Chariot",
+		"unitType": "Archery",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Zhou",
+		"movement": 5,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
+		"promotions": ["[Yuanrong Chariot] ability"],
+		"attackSound": "arrow"
+	},
+
 ]
