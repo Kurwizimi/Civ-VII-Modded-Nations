@@ -51,7 +51,7 @@
 
 	 {
         "name": "Frontier Command",
-       	"uniqueTo": "Zhou",
+       	"uniqueTo": "Tang",
     	"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"gold": 2,
