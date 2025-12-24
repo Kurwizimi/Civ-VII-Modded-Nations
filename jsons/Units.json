@@ -170,6 +170,23 @@
 			"Requires at least [2] population","May enter foreign tiles without open borders","Comment [This Unit is gained for free upon entering a Golden Age]"],
 		"hurryCostModifier": 20
 	},
+
+	{
+		"name": "Nokar",
+		"replaces": "Knight",
+		"uniqueTo": "Qara Qoyunlu",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["[Nokar] ability"],
+		"attackSound": "horse"
+	},
 	
 	{
 		"name": "Humanist",
