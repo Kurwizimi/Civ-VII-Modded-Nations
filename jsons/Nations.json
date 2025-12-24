@@ -32,7 +32,7 @@
 		"outerColor": [100,10,10],
 		"innerColor": [255,218,36],
 		"uniqueName": "Chatusadom",
-		"uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[+1 Production] from [Plantation] tiles [in all cities]","[+1 Food] from [Fishing Boats] tiles [in all cities]"
+		"uniques": ["[+2 Production] from [Plantation] tiles [in all cities]","[+1 Food, +1 Production] from [Fishing Boats] tiles [in all cities]"
 		,"Comment [Based on the 'Hellpanda's Ayutthaya (Exploration)' mod, made by Hellpanda]"],
 		"cities": ["Ayutthaya","Phitsanulok","Lopburi","Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
@@ -74,11 +74,10 @@
 		"innerColor": [110,90,15],
 		"uniqueName": "Cisalpine Gaul",
 		"uniques": ["Free [Settler] appears <upon constructing [Barracks]>", "[+2 Science, +2 Culture] [in capital]"
-		,"Comment [Based on the 'Decimus's Celtic Boii (Antiquity)' mod"],
-		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
-			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
-			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
-			"St. Austell","Saint-Malo","Onchan","Dundee","Londonderry","Llanfairpwllgwyngyll","Falmouth","Lorient"],
+		,"Comment [Based on the 'Decimus's Celtic Boii (Antiquity)' mod]"],
+		"cities": ["Bononia","Gorgobina","Mutina","Noreia","Bibracte","Alesia","Telamon","Zavist","Čáslav-Budčeves",
+			"Němčice","Strážovice","Chotoviny","Casurgis","Istros","Devin","La Tene","Tisza","Sava","Po Valley",
+			"Bratislava","Bohemia"],
 	},
 	
 	{
@@ -235,7 +234,7 @@
 		"outerColor": [200,145,105],
 		"innerColor": [105,40,0],
 		"uniqueName": "Arinnitta's Embrace",
-		"uniques": ["[+1 Production, +1 Gold] from [improved] tiles [in all cities] <for every adjacent [resource]>"
+		"uniques": ["[+1 Production, +2 Gold] from [improved] tiles [in all cities] <for every adjacent [Strategic resource]>"
 		,"Comment [Based on the 'Goggle's Hittite (Antiquity)' mod]"],
 		"cities": [ "Hattusa","Nesa","Kussara","Tuwanuwa","Hupisna","Purushanda","Samuha","Lusna","Alacohoyuk","Sapinuwa",
             "Tunip","Kadesh","Aleppo","Alalakh","Ullama","Nenassa","Nerik","Landa","Hakpis","Arinna",
@@ -244,7 +243,7 @@
 
 	{
 		"name": "Illyria",
-		"leaderName": "",
+		"leaderName": "Teuta",
 		"adjective": ["Illyrian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -469,7 +468,7 @@
 		"innerColor": [170,10,10],
 		"uniqueName": "Grammar Schools",
 		"uniques": ["[+2 Production] from [Science] tiles [in all cities]","[+1 Production] per [2] population [in all cities] <in cities with at least [5] [Specialists]> <hidden from users>",
-			"Comment [+1 [Production] per 2 population in all cities with atleast 5 Specialists]", "Comment [Based on the 'Matt's Civs: Scotland)' mod, made by mattwho]"],
+			"Comment [+1 [Production] per 2 population in all cities with atleast 5 Specialists]", "Comment [Based on the 'Matt's Civs: Scotland' mod, made by mattwho]"],
 		"cities": ["Edinburgh","Glasgow","Aberdeen","Inverness","Sterling","Dumfries","Dundee","Scone","Selkirk","Cumbernauld",
 			"Saint Andrews","Berwick-upon-Tweed","Forres","Roxburgh","Haddington","Ayr","Cullen","Dumbarton","Wigtown","Perth",
 			"Cupar","Clackmannan","Linlithgow","Jedburgh"]
@@ -681,7 +680,7 @@
 
 	{
 		"name": "Tondo",
-		"leaderName": "",
+		"leaderName": "Dayang Kalangitan",
 		"adjective": ["Tagalog"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Diplomatic",

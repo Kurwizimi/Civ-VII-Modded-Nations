@@ -43,10 +43,11 @@
        
        {
         "name": "[Jatha] ability",
-        "uniques": ["Gain [5] [Culture] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
-                  "Gain [10] [Science] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
-                  "Gain [10] [Faith] <upon ending a turn in a [City center] tile>  <(modified by game speed)>",
-                  "Gain [10] [Gold] <upon ending a turn in a [City center] tile>  <(modified by game speed)>"]
+        "uniques": ["Comment [Gain 5 [Culture], 10 [Science], 10 [Faith] and 10 [Gold] when garrisoned in a [City centre] (modified by game speed)]",
+			"Gain [5] [Culture] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>",
+                  "Gain [10] [Science] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>",
+                  "Gain [10] [Faith] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>",
+                  "Gain [10] [Gold] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>"]
     },
 
        
