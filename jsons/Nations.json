@@ -424,8 +424,8 @@
 
 		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
 		
-		"outerColor": [200,145,105],
-		"innerColor": [105,40,0],
+		"outerColor": [0, 175, 202],
+		"innerColor": [5, 5, 10],
 		"uniqueName": "Tarâkeme",
 		"uniques": ["Empire enters a [3]-turn Golden Age <upon conquering a city>", "Comment [+1 [Culture] from [Pasture] tiles, doubled in Annexed cities]", 
 			"[+1 Culture] from [Pasture] tiles [in all cities] <hidden from users>", "[+1 Culture] from [Pasture] tiles [in annexed cities] <hidden from users>",
@@ -623,8 +623,8 @@
 
 		"spyNames": ["Chen","Chang","Kong","Huan-Yue","Lei","Li-mei","Shaiming","Qing-yuan","Shing","Xin-qian"],
 		
-		"outerColor": [200,145,105],
-		"innerColor": [105,40,0],
+		"outerColor": [196,176,108],
+		"innerColor": [57,60,190],
 		"uniqueName": "Jiedushi",
 		"uniques": ["[+2%] Strength <for [All] Units> <for every [Owned [Great Improvement] Tiles]>",
 					"Comment [Based on the 'Exploration Age Civilization: Tang' mod by MapleLeaves]"],
@@ -813,8 +813,8 @@
 
 		"spyNames": ["Chen","Chang","Kong","Huan-Yue","Lei","Li-mei","Shaiming","Qing-yuan","Shing","Xin-qian"],
 
-		"outerColor": [255,255,20],
-		"innerColor": [25,120,25],
+		"outerColor": [200,200,100],
+		"innerColor": [160,5,5],
 		"uniqueName": "Zhou Li",
 		"uniques": ["[[+2]% [Production] [in capital] <for every [Cities]>", "[[+2]% [Gold] [in capital] <for every [[Annexed] Cities]>"
 			,"Comment [Based on the 'Antiquity Age Civilization: Zhou' mod made by MapleLeaves]"],
