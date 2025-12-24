@@ -403,7 +403,7 @@
 
 	{
 		"name": "Qara Qoyunlu",
-		"leaderName": "",
+		"leaderName": "Jahan Shah",
 		"adjective": ["Qoyunlu"],
 		"startBias": ["Hill", "Plains"],
 		"preferredVictoryType": "Cultural",
@@ -602,7 +602,7 @@
 
 	{
 		"name": "Tang",
-		"leaderName": "",
+		"leaderName": "Taizong",
 		"adjective": ["Tang"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
@@ -792,7 +792,7 @@
 
 	{
 		"name": "Zhou",
-		"leaderName": "",
+		"leaderName": "Wu",
 		"adjective": ["Zhou"],
 		"startBias": ["River", "Hill"],
 		"preferredVictoryType": "Cultural",
