@@ -44,6 +44,11 @@
 	"name": "Administrator",
 	"uniques": ["Comment [Fully healed]"]
      },
+
+	{
+	"name": "[Xuanjia Cavalry] ability",
+	"uniques": ["[+15]% to Flank Attack bonuses", "[+5] Strength <when defending>"]
+     },
          
         {
         "name": "[Katipunero] ability",
