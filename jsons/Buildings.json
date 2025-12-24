@@ -258,4 +258,16 @@
 		"uniques": ["[+1 Happiness, +1 Gold] from each Trade Route"]
 	},
 
+	{
+		"name": "Zongmiao",
+		"faith": 2,
+		"food": 2,
+		"culture": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+
 ]
