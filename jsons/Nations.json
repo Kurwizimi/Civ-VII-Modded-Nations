@@ -816,7 +816,7 @@
 		"outerColor": [200,200,100],
 		"innerColor": [160,5,5],
 		"uniqueName": "Zhou Li",
-		"uniques": ["[[+2]% [Production] [in capital] <for every [Cities]>", "[[+2]% [Gold] [in capital] <for every [[Annexed] Cities]>"
+		"uniques": ["[+2]% [Production] [in capital] <for every [Cities]>", "[+2]% [Gold] [in capital] <for every [[Annexed] Cities]>"
 			,"Comment [Based on the 'Antiquity Age Civilization: Zhou' mod made by MapleLeaves]"],
 		"cities": ["Fenghao","Wangcheng","Chengzhou","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
