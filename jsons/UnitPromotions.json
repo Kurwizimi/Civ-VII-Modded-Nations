@@ -50,6 +50,11 @@
                   "Gain [10] [Gold] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>"]
     },
 
+	{
+        "name": "[CYuanrong Chariot] ability",
+        "uniques": ["[+50]% Strength <vs [Barbarian] units>"]
+    },
+
        
 
 
