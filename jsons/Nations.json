@@ -79,6 +79,40 @@
 			"Němčice","Strážovice","Chotoviny","Casurgis","Istros","Devin","La Tene","Tisza","Sava","Po Valley",
 			"Bratislava","Bohemia"],
 	},
+
+	{
+		"name": "Dvaravati",
+		"leaderName": "",
+		"adjective": [""],
+		"startBias": ["River", "Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Hellpanda.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
+		
+		"outerColor": [0, 175, 202],
+		"innerColor": [5, 5, 10],
+		"uniqueName": "Wheel of Dharma",
+		"uniques": ["Starts with [Pottery]", "[+2 Culture] [in all cities with a world wonder]", 
+					"Comment [Based on the 'Hellpanda's Dvaravati (Antiquity)' mod]"],
+		"cities": [ "Si Thep","Ayodhyapura","Nakhon Pathom","Mueang Uthong","Khu Bua","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Ban Phai","Loci","Khon Kaen","Surin"],
+	},
 	
 	{
 		"name": "Edo Japan",
