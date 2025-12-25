@@ -106,7 +106,7 @@
 		"outerColor": [0, 175, 202],
 		"innerColor": [5, 5, 10],
 		"uniqueName": "Wheel of Dharma",
-		"uniques": ["Starts with [Pottery]", "[+2 Culture] [in all cities with a world wonder]", 
+		"uniques": ["Starts with [Pottery]", "[+2 Culture] [in all cities with a world wonder]", "[+1 Happiness] [non-[Annexed]] <hidden from users>",
 					"Comment [Based on the 'Hellpanda's Dvaravati (Antiquity)' mod]"],
 		"cities": [ "Si Thep","Ayodhyapura","Nakhon Pathom","Mueang Uthong","Khu Bua","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
