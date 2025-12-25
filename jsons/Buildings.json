@@ -66,7 +66,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[+1 Culture] from all [Happiness] buildings", "[+1 Happiness] from all [Culture] buildings",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "William Smith O'Brien",
@@ -74,7 +75,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[+15]% Strength <for [All] units> <if it hasn't used other actions yet>",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "Robert Emmett",
@@ -82,7 +84,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["Earn [20]% of killed [Military] unit's [Strength] as [Culture]","New [Land] units start with [15] XP [in all cities]",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "Michael Collins",
@@ -90,7 +93,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[-33]% XP required for promotions",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "Kathleen Clarke",
@@ -98,7 +102,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["Production to [Science] conversion in cities changed by [+75]%",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "James Gralton",
@@ -106,7 +111,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[-50]% construction time for [Farm] improvements","[-50]% construction time for [Mine] improvements",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "James Connolly",
@@ -114,7 +120,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[+2 Food, +2 Production, +2 Gold, +2 Science, +2 Culture] [in all cities]",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "Éamon de Valera",
@@ -122,7 +129,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[+3 Culture] [in all cities]","[-50]% unhappiness from the number of cities",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "Daniel O'Connell",
@@ -130,7 +138,8 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[+2 Science] from all [Production] buildings",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "Constance Markievicz",
@@ -138,15 +147,16 @@
 		"cost":1,
 		"uniqueTo": "Ireland",
 		"uniques": ["[+1 Gold, +2 Culture] from every specialist [in all cities]",
-				"Can only be built<in [in capital] cities>", "Statesman", "Only available <in cities without a [Statesman]>", "Remove [Remove Statesman] [in all cities]"]	
+				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
+				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
 	{	
         "name": "Remove Statesman",
 		"isNationalWonder": true,
 		"cost":1,
 		"uniqueTo": "Ireland",
-		"uniques": ["Remove [Statesman] [in all cities]",
-			"Can only be built<in [in capital] cities>", "Only available <in cities with a [Statesman]>"]	
+		"uniques": ["Comment [Remove the current Statesman]", "Remove [Statesman] [in all cities] <hidden from users>", "Can only be built<in [in capital] cities> <hidden from users>",
+					"Only available <in cities with a [Statesman]> <hidden from users>"]	
 	},
 
 	{
