@@ -17,6 +17,19 @@
 	},
 
 	{
+		"name": "Dhammaṭhāka",
+		"replaces": "Settler",
+		"uniqueTo": "Dvaravati",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"requiredTech": "Agriculture",
+		"uniques": ["Comment [Cities founded by this unit gain +1 [Happiness]]", "Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+
+	{
 		"name": "Kludda Lugiae",
 		"unitType": "Sword",
 		"replaces": "Swordsman",
