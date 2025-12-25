@@ -559,6 +559,39 @@
 	},
 
 	{
+		"name": "Swahili",
+		"leaderName": "",
+		"adjective": [""],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Infinite.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
+		
+		"outerColor": [0, 175, 202],
+		"innerColor": [5, 5, 10],
+		"uniqueName": "Harambee",
+		"uniques": ["[+2 Food, +2 Production] [in all coastal cities]", "[+15]% [Production] [in all cities connected to capital]",
+					"Comment [Based on the 'Infinite's Swahili - Exploration Age' mod]"],
+		"cities": [ "Tabriz","Erciş","Mosul","Isfahan","Karaj","Herat","Yazd","Rasht","Arāk",
+			"Qazvim","Qom","Ardabīl","Semnān","Astarābād","Kermanshah","Senneh","Ahvāz","Sanandaj","Būšehr",
+			"Moḥammara","Zāhedān","Bandar 'Abbās","Nishapur"]
+	},
+
+	{
 		"name": "Swiss Confederacy",
 		"leaderName": "Heinrich Bullinger",
 		"adjective": ["Swiss"],
