@@ -582,7 +582,7 @@
 		"spyNames": ["Alad", "Anusan", "Izila", "Ludari", "Gemekala", "Meania", "Ninna", "Sisig", "Sherzi", "Dari", "Aradegi"]
 		
 		"outerColor": [32, 100, 133],
-		"innerColor": [210, 140, 15],
+		"innerColor": [255, 129, 17],
 		
 		"uniqueName": "Cradle of Civilization",
 		"uniques": ["Starts with [Writing]","[+1 Food] from [{improved} {River}] tiles [in all cities]",
