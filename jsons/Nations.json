@@ -560,35 +560,34 @@
 
 	{
 		"name": "Swahili",
-		"leaderName": "",
-		"adjective": [""],
+		"leaderName": "Al-Hasan ibn Suleiman",
+		"adjective": ["Swahili"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "This Civ was brought to you by Infinite.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your cities are lacking true beauty only my nation can provide. They shall be rebuilt by our grand fleet!",
+		"attacked": "You should make your empire look nice insead of destroying ours.",
+		"defeated": "The Swahilli may now be enslaved, but the beauty of our works shall stand the test of time.",
+		"introduction": "I welcome you to the magnificent empire of the Swahili. Our cities stand as gems on the oceans edge. ",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
-		"denounced": "",
-		"declaringfriendship": "",
+		"neutralHello": "Muda wa biashara? Are you here to trade?",
+		"hateHello": "Una bidhaa gani? What goods do you have?",
+		"tradeRequest": "May we interest you in a trade deal?",
+		"denounced": "The Swahili shall stand strong, regardless of what you say or do.",
+		"declaringfriendship": "An offer like this will put you at very favourable terms with our merchants.",
 
-		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
+		"spyNames": ["Imani","Leila","Baraka","Omar","Adia","Anahita","Amani","Ahmad","Akida","Bijan"],
 		
-		"outerColor": [0, 175, 202],
-		"innerColor": [5, 5, 10],
+		"outerColor": [7,81,146],   //[8, 91, 163],
+		"innerColor": [209,159,60], //[204, 149, 39],
 		"uniqueName": "Harambee",
 		"uniques": ["[+2 Food, +2 Production] [in all coastal cities]", "[+15]% [Production] [in all cities connected to capital]",
 					"Comment [Based on the 'Infinite's Swahili - Exploration Age' mod]"],
-		"cities": [ "Tabriz","Erciş","Mosul","Isfahan","Karaj","Herat","Yazd","Rasht","Arāk",
-			"Qazvim","Qom","Ardabīl","Semnān","Astarābād","Kermanshah","Senneh","Ahvāz","Sanandaj","Būšehr",
-			"Moḥammara","Zāhedān","Bandar 'Abbās","Nishapur"]
+		"cities": ["Kilwa Kisinawi","Mafia","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi",
+			   "Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Inhambane","Pemba","Comoro"]
 	},
 
 	{
