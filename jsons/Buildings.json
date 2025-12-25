@@ -1,6 +1,19 @@
 [
 
 	{
+		"name": "Sema Grove",
+		"replaces": "Shrine",
+		"uniqueTo": "Dvaravati",
+		"faith": 1,
+		"culture": 2,
+		"food": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
+	},
+	
+	{
 		"name": "Yamanote",
 		"replaces": "Castle",
 		"uniqueTo": "Edo Japan",
