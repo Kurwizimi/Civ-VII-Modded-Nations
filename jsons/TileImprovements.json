@@ -14,15 +14,15 @@
         "name": "Grandina",
         "uniqueTo": "Illyria",
         "terrainsCanBeBuiltOn": ["Hill"],
-		  "turnsToBuild": 7,
-	     "techRequired": "Construction",
-		  "uniques": ["Comment [+1 [Production], +1 [Gold] for adjacent Land tiles]","Can be built outside your borders", "Gives a defensive bonus of [50]%"],
-		  "shortcutKey": "G"
+		"turnsToBuild": 7,
+	    "techRequired": "Construction",
+		"uniques": ["Comment [+1 [Production], +1 [Gold] for adjacent Land tiles]","Can be built outside your borders", "Gives a defensive bonus of [50]%"],
+		"shortcutKey": "G"
     },
 
 	{
 		"name": "Karak",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Comment [+2 [Gold], +1 [Food] for adjacent [Farm] tiles]", "Gives a defensive bonus of [60]%"],
 	},
   
@@ -48,16 +48,28 @@
         "uniques": ["[+1 Food, +1 Science] for each adjacent [River]", "Must be next to [River]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "R"
     },
+
+	 {
+        "name": "Frontier Command",
+       	"uniqueTo": "Tang",
+    	"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 1,
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Engineering",
+		"uniques": ["[+1 Culture, +2 Gold] <when at war>", "Must be next to [Foreign Land] <hidden from users>", "Comment [Must be built next to your border]", "Gives a defensive bonus of [30]%"],
+		"shortcutKey": "F"
+    },
    
 	{
 		"name": "Bahay Kubo",
-      "uniqueTo": "Tondo",
+      	"uniqueTo": "Tondo",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"food": 3,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
-         "Must be next to [City center]",
+         	"Must be next to [City center]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+25 Gold]"],

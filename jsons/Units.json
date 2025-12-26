@@ -17,6 +17,19 @@
 	},
 
 	{
+		"name": "Dhammaṭhāka",
+		"replaces": "Settler",
+		"uniqueTo": "Dvaravati",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"requiredTech": "Agriculture",
+		"uniques": ["Comment [Cities founded by this unit gain +1 [Happiness]]", "Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+
+	{
 		"name": "Kludda Lugiae",
 		"unitType": "Sword",
 		"replaces": "Swordsman",
@@ -170,6 +183,23 @@
 			"Requires at least [2] population","May enter foreign tiles without open borders","Comment [This Unit is gained for free upon entering a Golden Age]"],
 		"hurryCostModifier": 20
 	},
+
+	{
+		"name": "Nokar",
+		"replaces": "Knight",
+		"uniqueTo": "Qara Qoyunlu",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["[Nokar] ability"],
+		"attackSound": "horse"
+	},
 	
 	{
 		"name": "Humanist",
@@ -199,6 +229,39 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"promotions": ["Ignore terrain cost"],
 		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+
+	{
+		"name": "Jahazi",
+		"replaces": "Caravel",
+		"uniqueTo": "Swahili",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 15,
+		"cost": 85,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>", "Double movement in [Coast]"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
+	
+	{
+		"name": "Xuanjia Cavalry",
+		"replaces": "Knight",
+		"uniqueTo": "Tang",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Ignores Zone of Control", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["[Xuanjia Cavalry] ability"],
 		"attackSound": "horse"
 	},
 	{
@@ -267,6 +330,23 @@
 			"[This Unit] gets a name from the [Merchant] group",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 6
+	},
+
+	{
+		"name": "Yuanrong Chariot",
+		"unitType": "Archery",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Zhou",
+		"movement": 5,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
+		"promotions": ["[Yuanrong Chariot] ability"],
+		"attackSound": "arrow"
 	},
 
 ]

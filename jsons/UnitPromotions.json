@@ -34,6 +34,21 @@
 	"name": "[Lembus] ability",
 	"uniques": ["[This Unit] gains [1] movement <upon discovering a [Rare feature] tile>"]
      },
+
+	{
+	"name": "[Nokar] ability",
+	"uniques": ["Comment [Generates +1 Culture, +3 Gold when fully healed]",
+		"[This Unit] gains the [Administrator] promotion <when above [99] HP>", "[This Unit] loses the [Administrator] promotion <when below [98] HP>"]
+     },
+	{
+	"name": "Administrator",
+	"uniques": ["Comment [Fully healed]"]
+     },
+
+	{
+	"name": "[Xuanjia Cavalry] ability",
+	"uniques": ["[+15]% to Flank Attack bonuses", "[+5] Strength <when defending>"]
+     },
          
         {
         "name": "[Katipunero] ability",
@@ -48,6 +63,11 @@
                   "Gain [10] [Science] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>",
                   "Gain [10] [Faith] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>",
                   "Gain [10] [Gold] <upon ending a turn in a [City center] tile>  <(modified by game speed)> <hidden from users>"]
+    },
+
+	{
+        "name": "[Yuanrong Chariot] ability",
+        "uniques": ["[+50]% Strength <vs [Barbarian] units>"]
     },
 
        

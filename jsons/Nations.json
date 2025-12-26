@@ -79,6 +79,40 @@
 			"Němčice","Strážovice","Chotoviny","Casurgis","Istros","Devin","La Tene","Tisza","Sava","Po Valley",
 			"Bratislava","Bohemia"],
 	},
+
+	{
+		"name": "Dvaravati",
+		"leaderName": "Prathivindravarman",
+		"adjective": ["Dvaravati"],
+		"startBias": ["River", "Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Hellpanda.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Aran","Chanarong","Kiet","Niran","Virote","Kulap","Mayuree","Phueng","Ratana","Tola"],
+		
+		"outerColor": [130, 40, 85],
+		"innerColor": [190, 190, 160],
+		"uniqueName": "Wheel of Dharma",
+		"uniques": ["Starts with [Pottery]", "[+2 Culture] [in all cities with a world wonder]", "[+1 Happiness] [non-[Annexed]] <hidden from users>",
+					"Comment [Based on the 'Hellpanda's Dvaravati (Antiquity)' mod]"],
+		"cities": [ "Si Thep","Ayodhyapura","Nakhon Pathom","Mueang Uthong","Khu Bua","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Ban Phai","Loci","Khon Kaen","Surin"],
+	},
 	
 	{
 		"name": "Edo Japan",
@@ -400,6 +434,40 @@
 			"Caesarea","Haifa","Ma'arrat al-Nu'man","Zardana","Behesm","Gibelet","Tortosa","Latakia","Cryrrus","Jarabulus",
 			"Behsem","Famagusta","Beirut","Samosata"]
 	},
+
+	{
+		"name": "Qara Qoyunlu",
+		"leaderName": "Jahan Shah",
+		"adjective": ["Qoyunlu"],
+		"startBias": ["Hill", "Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Civ'ed.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
+		
+		"outerColor": [0, 175, 202],
+		"innerColor": [5, 5, 10],
+		"uniqueName": "Tarâkeme",
+		"uniques": ["Empire enters a [3]-turn Golden Age <upon conquering a city>", "Comment [+1 [Culture] from [Pasture] tiles, doubled in Annexed cities]", 
+			"[+1 Culture] from [Pasture] tiles [in all cities] <hidden from users>", "[+1 Culture] from [Pasture] tiles [in annexed cities] <hidden from users>",
+			"[+1 Culture, +3 Gold] <for every [[Administrator] Units]> <hidden from users>" ,"Comment [Based on the 'Civ'ed's Qara Qoyunlu' mod]"],
+		"cities": [ "Tabriz","Erciş","Mosul","Isfahan","Karaj","Herat","Yazd","Rasht","Arāk",
+			"Qazvim","Qom","Ardabīl","Semnān","Astarābād","Kermanshah","Senneh","Ahvāz","Sanandaj","Būšehr",
+			"Moḥammara","Zāhedān","Bandar 'Abbās","Nishapur"]
+	},
 	
 	{
 		"name": "Scotland",
@@ -474,7 +542,7 @@
 		"innerColor": [187, 189, 75],
 		
 		"uniqueName": "Speed is Strength, Freedom is Destiny",
-		"uniques": ["Free [Saka Rider] appears <upon conquering a city>", "[+1 Food] from [Open terrain] tiles [in all cities] <after discovering [Horseback Riding]>", "Comment [Reveal all tiles that have [Horses] on game start]",
+		"uniques": ["Free [Saka Rider] appears <upon conquering a city>", "[+1 Food] from [{unimproved} {Open terrain}] tiles [in all cities] <after discovering [Horseback Riding]>", "Comment [Reveal all tiles that have [Horses] on game start]",
 					"Reveal up to [all] [Horses] within a [30] tile radius <hidden from users>", "Comment [Based on the 'Izica's Scythia (Antiquity)' mod, made by Izica]"],
 		
 		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Kostromskaya","Myriv","Solokha","Maikop",
@@ -514,7 +582,7 @@
 		"spyNames": ["Alad", "Anusan", "Izila", "Ludari", "Gemekala", "Meania", "Ninna", "Sisig", "Sherzi", "Dari", "Aradegi"]
 		
 		"outerColor": [32, 100, 133],
-		"innerColor": [210, 140, 15],
+		"innerColor": [255, 129, 17],
 		
 		"uniqueName": "Cradle of Civilization",
 		"uniques": ["Starts with [Writing]","[+1 Food] from [{improved} {River}] tiles [in all cities]",
@@ -522,6 +590,38 @@
 		
 		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab",
 			  "Isin","Larak","Abu Salabikh","Akshak","Umma","Larsa","Hamazi","Girsu","Nina","Kuara"]
+	},
+
+	{
+		"name": "Swahili",
+		"leaderName": "Al-Hasan ibn Suleiman",
+		"adjective": ["Swahili"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Infinite.",
+		
+		"declaringWar": "Your cities are lacking true beauty only my nation can provide. They shall be rebuilt by our grand fleet!",
+		"attacked": "You should make your empire look nice insead of destroying ours.",
+		"defeated": "The Swahilli may now be enslaved, but the beauty of our works shall stand the test of time.",
+		"introduction": "I welcome you to the magnificent empire of the Swahili. Our cities stand as gems on the oceans edge. ",
+		
+		"neutralHello": "Muda wa biashara? Are you here to trade?",
+		"hateHello": "Una bidhaa gani? What goods do you have?",
+		"tradeRequest": "May we interest you in a trade deal?",
+		"denounced": "The Swahili shall stand strong, regardless of what you say or do.",
+		"declaringfriendship": "An offer like this will put you at very favourable terms with our merchants.",
+
+		"spyNames": ["Imani","Leila","Baraka","Omar","Adia","Anahita","Amani","Ahmad","Akida","Bijan"],
+		
+		"outerColor": [7,81,146],   //[8, 91, 163],
+		"innerColor": [209,159,60], //[204, 149, 39],
+		"uniqueName": "Harambee",
+		"uniques": ["[+2 Food, +2 Production] [in all coastal cities]", "[+15]% [Production] [in all cities connected to capital]",
+					"Comment [Based on the 'Infinite's Swahili - Exploration Age' mod]"],
+		"cities": ["Kilwa Kisinawi","Mafia","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi",
+			   "Faza","Angoche","Songo Mnara","Malindi","Quelimane","Merca","Inhambane","Pemba","Comoro"]
 	},
 
 	{
@@ -564,6 +664,39 @@
 		"cities": ["Zurich","Geneva","Bern","Basel","Lausanne","Winterthur","Lucerne","St. Gallen","Lugano","Biel",
 			  "Thun","Bellinzona","Fribourg","Köniz","Schaffhausen","La Chaux-de-Fonds","Cher","Uster","Sion","Vernier",
 			  "Lancy","Neuchâtel"]
+	},
+
+	{
+		"name": "Tang",
+		"leaderName": "Taizong",
+		"adjective": ["Tang"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "This Civ was brought to you by Civ'ed.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Chen","Chang","Kong","Huan-Yue","Lei","Li-mei","Shaiming","Qing-yuan","Shing","Xin-qian"],
+		
+		"outerColor": [196,176,108],
+		"innerColor": [57,60,190],
+		"uniqueName": "Jiedushi",
+		"uniques": ["[+2]% Strength <for [All] units> <for every [Owned [Great Improvement] Tiles]>",
+					"Comment [Based on the 'Exploration Age Civilization: Tang' mod by MapleLeaves]"],
+		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
+			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
+			"Nánzhèng","Yè","Didao","Panyu"]
 	},
 	
 	{
@@ -721,6 +854,39 @@
 		"uniques": ["[+2 Happiness, +1 Culture] from each Trade Route"
 		,"Comment [Based on the 'Goggle's Wagadu' mod, made by Goggle]"],
 		"cities": ["Koumbi Saleh","Aoudaghost","Oualata","Tichitt","Nema","Galam","Dia","Sosso","Diara","Goumbou"]
+	},
+
+	{
+		"name": "Zhou",
+		"leaderName": "Wu",
+		"adjective": ["Zhou"],
+		"startBias": ["River", "Hill"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Chen","Chang","Kong","Huan-Yue","Lei","Li-mei","Shaiming","Qing-yuan","Shing","Xin-qian"],
+
+		"outerColor": [200,200,100],
+		"innerColor": [160,5,5],
+		"uniqueName": "Zhou Li",
+		"uniques": ["[+2]% [Production] [in capital] <for every [Cities]>", "[+2]% [Gold] [in capital] <for every [[Annexed] Cities]>"
+			,"Comment [Based on the 'Antiquity Age Civilization: Zhou' mod made by MapleLeaves]"],
+		"cities": ["Fenghao","Wangcheng","Chengzhou","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
+			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
+			"Nánzhèng","Yè","Didao","Panyu"],
 	},
 	
 ]

@@ -3,6 +3,7 @@ Civ Icons
 * Boii - Celtic by Flatart from <a href="https://thenounproject.com/browse/icons/term/celtic/" target="_blank" title="Celtic Icons">Noun Project</a> (CC BY 3.0)
 * Edo Japan - Chrysanthemum by Jang Jeong Eui from <a href="https://thenounproject.com/browse/icons/term/chrysanthemum/" target="_blank" title="Chrysanthemum Icons">Noun Project</a> (CC BY 3.0)
 * England - galleon by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/galleon/" target="_blank" title="galleon Icons">Noun Project</a> (CC BY 3.0)
+* Dvarvati - dharma by Studio 365 from <a href="https://thenounproject.com/browse/icons/term/dharma/" target="_blank" title="dharma Icons">Noun Project</a> (CC BY 3.0)
 * Goryeo - ceramics by Cha from <a href="https://thenounproject.com/browse/icons/term/ceramics/" target="_blank" title="ceramics Icons">Noun Project</a> (CC BY 3.0)
 * Hittites - galleon by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/galleon/" target="_blank" title="galleon Icons">Noun Project</a> (CC BY 3.0)
 * Ireland - Harp by Kael from <a href="https://thenounproject.com/browse/icons/term/harp/" target="_blank" title="Harp Icons">Noun Project</a> (CC BY 3.0)
@@ -30,14 +31,18 @@ Units
 - Argyraspides - Spartan by Orun Bhuiyan from <a href="https://thenounproject.com/browse/icons/term/spartan/" target="_blank" title="Spartan Icons">Noun Project</a> (CC BY 3.0)
 - Pilgrim - muslimah woman by Ian Rahmadi Kurniawan from <a href="https://thenounproject.com/browse/icons/term/muslimah-woman/" target="_blank" title="muslimah woman Icons">Noun Project</a> (CC BY 3.0)
 - Humanist - 18th century man face by Snow from <a href="https://thenounproject.com/browse/icons/term/18th-century-man-face/" target="_blank" title="18th century man face Icons">Noun Project</a> (CC BY 3.0)
+- Nokar - turban by muhamad afiffudin from <a href="https://thenounproject.com/browse/icons/term/turban/" target="_blank" title="turban Icons">Noun Project</a> (CC BY 3.0)
+- Xuanjia Cavalry - War horse by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/war-horse/" target="_blank" title="War horse Icons">Noun Project</a> (CC BY 3.0)
 - Katipunero - South Africa by Melvin Salas from <a href="https://thenounproject.com/browse/icons/term/south-africa/" target="_blank" title="South Africa Icons">Noun Project</a> (CC BY 3.0)
 - Jatha - turban by andika from <a href="https://thenounproject.com/browse/icons/term/turban/" target="_blank" title="turban Icons">Noun Project</a> (CC BY 3.0)
 - Datu - necklace by Soni Sokell from <a href="https://thenounproject.com/browse/icons/term/necklace/" target="_blank" title="necklace Icons">Noun Project</a> (CC BY 3.0)
 - Trans- Saharan Merchant - Animal by 일 하자 from <a href="https://thenounproject.com/browse/icons/term/animal/" target="_blank" title="Animal Icons">Noun Project</a> (CC BY 3.0)
+- Yuanrong Chariot - chariot by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/chariot/" target="_blank" title="chariot Icons">Noun Project</a> (CC BY 3.0)
 
 
 
 Buildings
+- Sema Grove - Pagoda by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
 - Public Theatre - Shakespeare by Daniel Turner from <a href="https://thenounproject.com/browse/icons/term/shakespeare/" target="_blank" title="Shakespeare Icons">Noun Project</a> (CC BY 3.0)
 - Yamanote - japanese temple by Foxyard Studio from <a href="https://thenounproject.com/browse/icons/term/japanese-temple/" target="_blank" title="japanese temple Icons">Noun Project</a> (CC BY 3.0)
 - Seoktap - Pagoda by Puspa Kusuma from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
@@ -47,15 +52,18 @@ Buildings
 - Commandery - Castle by Gabriele Malaspina from <a href="https://thenounproject.com/browse/icons/term/castle/" target="_blank" title="Castle Icons">Noun Project</a> (CC BY 3.0)
 - Royal Burghs - Edinburgh by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/edinburgh/" target="_blank" title="Edinburgh Icons">Noun Project</a> (CC BY 3.0)
 - Abul-Urudu - Hammer by Laymik from <a href="https://thenounproject.com/browse/icons/term/hammer/" target="_blank" title="Hammer Icons">Noun Project</a> (CC BY 3.0)
+- Coral stone port - coral by Moreno from <a href="https://thenounproject.com/browse/icons/term/coral/" target="_blank" title="coral Icons">Noun Project</a> (CC BY 3.0)
 - Stiftsharchiv - Book by Sentya Irma from <a href="https://thenounproject.com/browse/icons/term/book/" target="_blank" title="Book Icons">Noun Project</a> (CC BY 3.0)
 - Furstabtei - abbey by Studio Danro from <a href="https://thenounproject.com/browse/icons/term/abbey/" target="_blank" title="abbey Icons">Noun Project</a> (CC BY 3.0)
 - Intramuros - cathedral by ircham from <a href="https://thenounproject.com/browse/icons/term/cathedral/" target="_blank" title="cathedral Icons">Noun Project</a> (CC BY 3.0)
 - Takht - gurdwara by everydayicoons from <a href="https://thenounproject.com/browse/icons/term/gurdwara/" target="_blank" title="gurdwara Icons">Noun Project</a> (CC BY 3.0)
 - Yiri Senuman - bazaar by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/bazaar/" target="_blank" title="bazaar Icons">Noun Project</a> (CC BY 3.0)
+- Zongmiao - Confucius by PMSO BEMFEBUNUD from <a href="https://thenounproject.com/browse/icons/term/confucius/" target="_blank" title="Confucius Icons">Noun Project</a> (CC BY 3.0)
 
 Improvements
 - Floating Market - Thailand by nakals from <a href="https://thenounproject.com/browse/icons/term/thailand/" target="_blank" title="Thailand Icons">Noun Project</a> (CC BY 3.0)
 - Grandina - Fort by iconcheese from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
 - Ziggurat - ziggurat of ur by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/ziggurat-of-ur/" target="_blank" title="ziggurat of ur Icons">Noun Project</a> (CC BY 3.0)
 - Kurgan - Cairn by Marta Marinho from <a href="https://thenounproject.com/browse/icons/term/cairn/" target="_blank" title="Cairn Icons">Noun Project</a> (CC BY 3.0)
+- Frontier Command - doha fort by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/doha-fort/" target="_blank" title="doha fort Icons">Noun Project</a> (CC BY 3.0)
 - Farm by Muhammad Atif from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
