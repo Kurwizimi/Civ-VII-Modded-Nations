@@ -82,8 +82,8 @@
 
 	{
 		"name": "Dvaravati",
-		"leaderName": "",
-		"adjective": [""],
+		"leaderName": "Prathivindravarman",
+		"adjective": ["Dvaravati"],
 		"startBias": ["River", "Plains"],
 		"preferredVictoryType": "Cultural",
 		
@@ -101,10 +101,10 @@
 		"denounced": "",
 		"declaringfriendship": "",
 
-		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
+		"spyNames": ["Aran","Chanarong","Kiet","Niran","Virote","Kulap","Mayuree","Phueng","Ratana","Tola"],
 		
-		"outerColor": [0, 175, 202],
-		"innerColor": [5, 5, 10],
+		"outerColor": [130, 40, 85],
+		"innerColor": [190, 190, 160],
 		"uniqueName": "Wheel of Dharma",
 		"uniques": ["Starts with [Pottery]", "[+2 Culture] [in all cities with a world wonder]", "[+1 Happiness] [non-[Annexed]] <hidden from users>",
 					"Comment [Based on the 'Hellpanda's Dvaravati (Antiquity)' mod]"],
