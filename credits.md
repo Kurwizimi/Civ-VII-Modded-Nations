@@ -38,6 +38,7 @@ Units
 
 
 Buildings
+- Sema Grove - Pagoda by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
 - Public Theatre - Shakespeare by Daniel Turner from <a href="https://thenounproject.com/browse/icons/term/shakespeare/" target="_blank" title="Shakespeare Icons">Noun Project</a> (CC BY 3.0)
 - Yamanote - japanese temple by Foxyard Studio from <a href="https://thenounproject.com/browse/icons/term/japanese-temple/" target="_blank" title="japanese temple Icons">Noun Project</a> (CC BY 3.0)
 - Seoktap - Pagoda by Puspa Kusuma from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
