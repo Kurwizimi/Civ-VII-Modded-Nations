@@ -38,7 +38,7 @@
 	{
 	"name": "[Nokar] ability",
 	"uniques": ["Comment [Generates +1 Culture, +3 Gold when fully healed]",
-		"[This Unit] gains the [Administrator] promotion <when above [99] HP>", "[This Unit] loses the [Administrator] promotion <when below [98] HP>"]
+		"[This Unit] gains the [Administrator] promotion <when above [99] HP> <hidden from users>", "[This Unit] loses the [Administrator] promotion <when below [98] HP> <hidden from users>"]
      },
 	{
 	"name": "Administrator",
