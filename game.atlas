@@ -6,378 +6,483 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Abul-Urudu
   rotate: false
-  xy: 4, 102
+  xy: 226, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Agora
   rotate: false
-  xy: 326, 406
+  xy: 4, 4
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Commandery
   rotate: false
-  xy: 1110, 406
+  xy: 1108, 416
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Coral Stone Port
+  rotate: false
+  xy: 1206, 416
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Eyvān
+  rotate: false
+  xy: 1696, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Fürstabtei
   rotate: false
-  xy: 1404, 406
+  xy: 1892, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Intramuros
   rotate: false
-  xy: 102, 102
+  xy: 324, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Kuntarra
   rotate: false
-  xy: 310, 302
+  xy: 1010, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Public Theatre
   rotate: false
-  xy: 800, 308
+  xy: 1598, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Royal Burghs
   rotate: false
-  xy: 898, 308
+  xy: 1794, 318
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sema Grove
+  rotate: false
+  xy: 308, 122
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Seoktap
   rotate: false
-  xy: 1192, 308
+  xy: 308, 24
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Stiftsarchiv
   rotate: false
-  xy: 1290, 308
+  xy: 406, 122
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Takht
   rotate: false
-  xy: 1584, 308
+  xy: 504, 24
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/The Liberties
   rotate: false
-  xy: 1682, 308
+  xy: 602, 24
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Yamanote
   rotate: false
-  xy: 298, 4
+  xy: 896, 122
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Yiri Senuman
   rotate: false
-  xy: 308, 200
+  xy: 896, 24
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Zongmiao
+  rotate: false
+  xy: 1092, 24
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Bahay Kubo
   rotate: false
-  xy: 718, 406
+  xy: 716, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Floating Market
   rotate: false
-  xy: 4, 200
+  xy: 4, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Frontier Command
+  rotate: false
+  xy: 1794, 416
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Grandina
   rotate: false
-  xy: 1698, 406
+  xy: 112, 18
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Royal Kurgan
   rotate: false
-  xy: 996, 308
+  xy: 1892, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Ziggurat
   rotate: false
-  xy: 396, 102
+  xy: 1092, 122
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Ayutthaya
   rotate: false
-  xy: 620, 406
+  xy: 618, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Boii
   rotate: false
-  xy: 816, 406
+  xy: 814, 416
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Dvaravati
+  rotate: false
+  xy: 1500, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Edo Japan
   rotate: false
-  xy: 1306, 406
+  xy: 1598, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Goryeo
   rotate: false
-  xy: 1600, 406
+  xy: 112, 116
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Hittites
   rotate: false
-  xy: 1894, 406
+  xy: 210, 116
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Illyria
   rotate: false
-  xy: 112, 200
+  xy: 226, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Ireland
   rotate: false
-  xy: 102, 4
+  xy: 422, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Kingdom of England
   rotate: false
-  xy: 200, 102
+  xy: 814, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Macedonia
   rotate: false
-  xy: 506, 308
+  xy: 1206, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Outremer
   rotate: false
-  xy: 604, 308
+  xy: 1402, 318
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Qara Qoyunlu
+  rotate: false
+  xy: 1696, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Scotland
   rotate: false
-  xy: 1094, 308
+  xy: 308, 220
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Scythia
   rotate: false
-  xy: 4, 406
+  xy: 4, 318
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/Sumer
   rotate: false
-  xy: 1388, 308
+  xy: 406, 24
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+NationIcons/Swahili
+  rotate: false
+  xy: 4, 416
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
 NationIcons/Swiss Confederacy
   rotate: false
-  xy: 1486, 308
+  xy: 504, 122
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Tang
+  rotate: false
+  xy: 602, 122
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/The Philippines
   rotate: false
-  xy: 4, 308
+  xy: 116, 416
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/The Sikh Empire
   rotate: false
-  xy: 1780, 308
+  xy: 700, 122
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Tondo
   rotate: false
-  xy: 222, 400
+  xy: 114, 312
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 NationIcons/Wagadu
   rotate: false
-  xy: 298, 102
+  xy: 798, 122
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Zhou
+  rotate: false
+  xy: 994, 24
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Ambassador
   rotate: false
-  xy: 4, 4
+  xy: 324, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Ambouii
   rotate: false
-  xy: 424, 406
+  xy: 422, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Argyraspides
   rotate: false
-  xy: 522, 406
+  xy: 520, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Byeolmuban
   rotate: false
-  xy: 914, 406
+  xy: 912, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Chang Suek
   rotate: false
-  xy: 1012, 406
+  xy: 1010, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Datu
   rotate: false
-  xy: 1208, 406
+  xy: 1304, 416
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Dhammaṭhāka
+  rotate: false
+  xy: 1402, 416
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Edo Samurai
   rotate: false
-  xy: 114, 396
+  xy: 4, 210
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Golden Chariot
   rotate: false
-  xy: 1502, 406
+  xy: 112, 214
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Highlander Regiment
   rotate: false
-  xy: 1796, 406
+  xy: 210, 214
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Humanist
   rotate: false
-  xy: 114, 298
+  xy: 210, 18
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Jahazi
+  rotate: false
+  xy: 520, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Jatha
   rotate: false
-  xy: 212, 298
+  xy: 618, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Katipunero
   rotate: false
-  xy: 210, 200
+  xy: 716, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Kludda Lugiae
   rotate: false
-  xy: 200, 4
+  xy: 912, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Lembus
   rotate: false
-  xy: 408, 308
+  xy: 1108, 318
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Nokar
+  rotate: false
+  xy: 1304, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Pilgrim
   rotate: false
-  xy: 702, 308
+  xy: 1500, 318
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Saka Rider
   rotate: false
-  xy: 396, 5
+  xy: 1190, 123
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 UnitIcons/Trans-Saharan Merchant
   rotate: false
-  xy: 1878, 308
+  xy: 700, 24
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Xuanjia Cavalry
+  rotate: false
+  xy: 798, 24
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuanrong Chariot
+  rotate: false
+  xy: 994, 122
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
