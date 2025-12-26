@@ -48,11 +48,13 @@ Buildings
 - Commandery - Castle by Gabriele Malaspina from <a href="https://thenounproject.com/browse/icons/term/castle/" target="_blank" title="Castle Icons">Noun Project</a> (CC BY 3.0)
 - Royal Burghs - Edinburgh by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/edinburgh/" target="_blank" title="Edinburgh Icons">Noun Project</a> (CC BY 3.0)
 - Abul-Urudu - Hammer by Laymik from <a href="https://thenounproject.com/browse/icons/term/hammer/" target="_blank" title="Hammer Icons">Noun Project</a> (CC BY 3.0)
+- Coral stone port - coral by Moreno from <a href="https://thenounproject.com/browse/icons/term/coral/" target="_blank" title="coral Icons">Noun Project</a> (CC BY 3.0)
 - Stiftsharchiv - Book by Sentya Irma from <a href="https://thenounproject.com/browse/icons/term/book/" target="_blank" title="Book Icons">Noun Project</a> (CC BY 3.0)
 - Furstabtei - abbey by Studio Danro from <a href="https://thenounproject.com/browse/icons/term/abbey/" target="_blank" title="abbey Icons">Noun Project</a> (CC BY 3.0)
 - Intramuros - cathedral by ircham from <a href="https://thenounproject.com/browse/icons/term/cathedral/" target="_blank" title="cathedral Icons">Noun Project</a> (CC BY 3.0)
 - Takht - gurdwara by everydayicoons from <a href="https://thenounproject.com/browse/icons/term/gurdwara/" target="_blank" title="gurdwara Icons">Noun Project</a> (CC BY 3.0)
 - Yiri Senuman - bazaar by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/bazaar/" target="_blank" title="bazaar Icons">Noun Project</a> (CC BY 3.0)
+- Zongmiao - Confucius by PMSO BEMFEBUNUD from <a href="https://thenounproject.com/browse/icons/term/confucius/" target="_blank" title="Confucius Icons">Noun Project</a> (CC BY 3.0)
 
 Improvements
 - Floating Market - Thailand by nakals from <a href="https://thenounproject.com/browse/icons/term/thailand/" target="_blank" title="Thailand Icons">Noun Project</a> (CC BY 3.0)
