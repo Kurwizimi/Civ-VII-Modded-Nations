@@ -3,6 +3,7 @@ Civ Icons
 * Boii - Celtic by Flatart from <a href="https://thenounproject.com/browse/icons/term/celtic/" target="_blank" title="Celtic Icons">Noun Project</a> (CC BY 3.0)
 * Edo Japan - Chrysanthemum by Jang Jeong Eui from <a href="https://thenounproject.com/browse/icons/term/chrysanthemum/" target="_blank" title="Chrysanthemum Icons">Noun Project</a> (CC BY 3.0)
 * England - galleon by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/galleon/" target="_blank" title="galleon Icons">Noun Project</a> (CC BY 3.0)
+* Dvarvati - dharma by Studio 365 from <a href="https://thenounproject.com/browse/icons/term/dharma/" target="_blank" title="dharma Icons">Noun Project</a> (CC BY 3.0)
 * Goryeo - ceramics by Cha from <a href="https://thenounproject.com/browse/icons/term/ceramics/" target="_blank" title="ceramics Icons">Noun Project</a> (CC BY 3.0)
 * Hittites - galleon by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/galleon/" target="_blank" title="galleon Icons">Noun Project</a> (CC BY 3.0)
 * Ireland - Harp by Kael from <a href="https://thenounproject.com/browse/icons/term/harp/" target="_blank" title="Harp Icons">Noun Project</a> (CC BY 3.0)
