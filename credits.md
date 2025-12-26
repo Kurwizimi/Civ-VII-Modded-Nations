@@ -30,10 +30,12 @@ Units
 - Argyraspides - Spartan by Orun Bhuiyan from <a href="https://thenounproject.com/browse/icons/term/spartan/" target="_blank" title="Spartan Icons">Noun Project</a> (CC BY 3.0)
 - Pilgrim - muslimah woman by Ian Rahmadi Kurniawan from <a href="https://thenounproject.com/browse/icons/term/muslimah-woman/" target="_blank" title="muslimah woman Icons">Noun Project</a> (CC BY 3.0)
 - Humanist - 18th century man face by Snow from <a href="https://thenounproject.com/browse/icons/term/18th-century-man-face/" target="_blank" title="18th century man face Icons">Noun Project</a> (CC BY 3.0)
+- Xuanjia Cavalry - War horse by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/war-horse/" target="_blank" title="War horse Icons">Noun Project</a> (CC BY 3.0)
 - Katipunero - South Africa by Melvin Salas from <a href="https://thenounproject.com/browse/icons/term/south-africa/" target="_blank" title="South Africa Icons">Noun Project</a> (CC BY 3.0)
 - Jatha - turban by andika from <a href="https://thenounproject.com/browse/icons/term/turban/" target="_blank" title="turban Icons">Noun Project</a> (CC BY 3.0)
 - Datu - necklace by Soni Sokell from <a href="https://thenounproject.com/browse/icons/term/necklace/" target="_blank" title="necklace Icons">Noun Project</a> (CC BY 3.0)
 - Trans- Saharan Merchant - Animal by 일 하자 from <a href="https://thenounproject.com/browse/icons/term/animal/" target="_blank" title="Animal Icons">Noun Project</a> (CC BY 3.0)
+- Yuanrong Chariot - chariot by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/chariot/" target="_blank" title="chariot Icons">Noun Project</a> (CC BY 3.0)
 
 
 
