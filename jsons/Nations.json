@@ -543,7 +543,7 @@
 		
 		"uniqueName": "Speed is Strength, Freedom is Destiny",
 		"uniques": ["Free [Saka Rider] appears <upon conquering a city>", "[+1 Food] from [{unimproved} {Open terrain}] tiles [in all cities] <after discovering [Horseback Riding]>", "Comment [Reveal all tiles that have [Horses] on game start]",
-					"Reveal up to [all] [Horses] within a [30] tile radius <hidden from users>", "Comment [Based on the 'Izica's Scythia (Antiquity)' mod, made by Izica]"],
+					"Reveal up to [all] [Horses] within a [300] tile radius <hidden from users>", "Comment [Based on the 'Izica's Scythia (Antiquity)' mod, made by Izica]"],
 		
 		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Kostromskaya","Myriv","Solokha","Maikop",
 			  "Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya",
