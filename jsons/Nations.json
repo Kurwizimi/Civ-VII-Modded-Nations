@@ -502,7 +502,7 @@
 		"outerColor": [230,160,60],
 		"innerColor": [170,10,10],
 		"uniqueName": "Grammar Schools",
-		"uniques": ["[+2 Production] from [Science] tiles [in all cities]","[+1 Production] per [2] population [in all cities] <in cities with at least [5] [Specialists]> <hidden from users>",
+		"uniques": ["[+1 Production] from all [{non-[Wonder]} {Science}] buildings","[+1 Production] per [2] population [in all cities] <in cities with at least [5] [Specialists]> <hidden from users>",
 			"Comment [+1 [Production] per 2 population in all cities with atleast 5 Specialists]", "Comment [Based on the 'Matt's Civs: Scotland' mod, made by mattwho]"],
 		"cities": ["Edinburgh","Glasgow","Aberdeen","Inverness","Sterling","Dumfries","Dundee","Scone","Selkirk","Cumbernauld",
 			"Saint Andrews","Berwick-upon-Tweed","Forres","Roxburgh","Haddington","Ayr","Cullen","Dumbarton","Wigtown","Perth",
