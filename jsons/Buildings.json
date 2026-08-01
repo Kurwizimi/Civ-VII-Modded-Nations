@@ -41,7 +41,7 @@
 	{
 		"name": "Seoktap",
 		"replaces": "Temple",
-		"uniqueTo": "Goryeo",
+		"uniqueTo": "Koryŏ",
 		"faith": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
