@@ -98,7 +98,7 @@
 		"name": "Byeolmuban",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
-		"uniqueTo": "Goryeo",
+		"uniqueTo": "Koryŏ",
 		"movement": 4,
 		"strength": 12,
 		"cost": 75,
