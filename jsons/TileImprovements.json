@@ -34,7 +34,7 @@
         "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Calendar",
-        "uniques": ["[+1 Gold] for every adjacent [Open terrain]", "Cannot be built on [Hill] tiles","Only available <with [0] to [1] neighboring [Royal Kurgan] tiles>",
+        "uniques": ["[+1 Gold] for every adjacent [{Featureless} {non-[Hill]}]", "Cannot be built on [Hill] tiles","Only available <with [0] to [1] neighboring [Royal Kurgan] tiles>",
 			"Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "R"
     },
