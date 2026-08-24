@@ -22,7 +22,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["Free [Edo Samurai] appears", "[+1 Food] from [resource] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["Free [Edo Samurai] appears", "[+1 Food] from [Hill] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 
 	{
@@ -74,7 +74,7 @@
 		"isNationalWonder": true,
 		"cost":1,
 		"uniqueTo": "Ireland",
-		"uniques": ["[+15]% Strength <for [All] units> <if it hasn't used other actions yet>",
+		"uniques": ["[+15]% Strength <for [All] units> <when above [2] movement>",
 				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
 				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
@@ -83,7 +83,7 @@
 		"isNationalWonder": true,
 		"cost":1,
 		"uniqueTo": "Ireland",
-		"uniques": ["Earn [20]% of killed [Military] unit's [Strength] as [Culture]","New [Land] units start with [15] XP [in all cities]",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","New [Land] units start with [15] XP [in all cities]",
 				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
 				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
@@ -137,7 +137,7 @@
 		"isNationalWonder": true,
 		"cost":1,
 		"uniqueTo": "Ireland",
-		"uniques": ["[+2 Science] from all [Production] buildings",
+		"uniques": ["[+2 Science] from all [Production] buildings", "[+2 Production] from every specialist [in capital]",
 				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
 				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
@@ -146,7 +146,7 @@
 		"isNationalWonder": true,
 		"cost":1,
 		"uniqueTo": "Ireland",
-		"uniques": ["[+1 Gold, +2 Culture] from every specialist [in all cities]",
+		"uniques": ["[+2 Gold, +2 Culture] from every specialist [in all cities]",
 				"Can only be built <in [in capital] cities> <hidden from users>", "Statesman", "Only available <in cities without a [Statesman]> <hidden from users>",
 				"Remove [Remove Statesman] [in all cities] <hidden from users>"]
 	},
@@ -167,7 +167,7 @@
         "maintenance": 1,
         "hurryCostModifier": 10,
         "uniques": ["[-25]% enemy spy effectiveness [in this city]",
-					"Comment [+1 [Culture] for every 5 [Happiness]]", "[+1 Culture] <for every [[Happiness] / 5]> <hidden from users>",],
+					"Comment [+1 [Culture] for every 2 [Happiness]]", "[+1 Culture] <for every [[Happiness] / 2]> <hidden from users>",],
         "requiredBuilding": "Constabulary",
         "requiredTech": "Electricity"
     },
@@ -277,7 +277,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy",
-		"uniques": ["[+1 Gold, +1 Faith] [in all cities]", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Gold, +2 Faith] [in all cities]", "Destroyed when the city is captured"]
 	},
 	
 	{
